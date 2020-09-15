@@ -76,16 +76,28 @@ https://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="hindi"  tvg-country="IN" tvg-url="" group-title="HOTSTAR ALTERNATIVE",star gold hdd 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="hindi"  tvg-country="IN" tvg-url="" group-title="STAR HOTSTAR",star gold hdd 
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/11
 #EXTINF:0,STAR MOVIES SELECT FHD
 http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
 #EXTINF:-1,Star Plus HD
 http://195.181.169.129/StarPlusASIA-Hin/tracks-v1a1/mono.m3u8
-#EXTINF:-1,STAR SPORTS HINDI
-http://66.northerniptv.ca:8000/golden123/golden123/201
-#EXTINF:0,STAR SPORTS HINDI
-http://ok2.se:8000/victor1/victor123/201
+#EXTINF:-1,IN : STAR SPORTS 1 HD 1080 50FPS H.264
+http://randomserver.site:2086/Bria/Bria/94780
+#EXTINF:-1,IN : STAR SPORTS 1 HD 1080 H.264
+http://randomserver.site:2086/Bria/Bria/94781
+#EXTINF:-1,IN : STAR SPORTS 2 HD
+http://randomserver.site:2086/Bria/Bria/94784
+#EXTINF:-1,IN : STAR SPORTS 2 HD 1080 H.264
+http://randomserver.site:2086/Bria/Bria/94785
+#EXTINF:-1,IN : STAR SPORTS HINDI 1 HD
+http://randomserver.site:2086/Bria/Bria/94788
+#EXTINF:-1,IN : STAR SPORTS SELECT 1 HD
+http://randomserver.site:2086/Bria/Bria/94789
+#EXTINF:-1,IN : STAR SPORTS SELECT 2 HD
+http://randomserver.site:2086/Bria/Bria/94790
+#EXTINF:-1,IN : STAR SPORTS TAMIL 1
+http://randomserver.site:2086/Bria/Bria/94792
 #EXTINF:-0,Star Sports Select 1 HD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/51.m3u8
 #EXTINF:-0,Star Sports Select 2 HD
@@ -4883,28 +4895,3 @@ https://stream.allsprk.tv/live/8/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://stream.allsprk.tv/9.png" group-title="",Channel-9
 https://stream.allsprk.tv/live/9/index.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
