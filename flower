@@ -76,8 +76,7 @@ https://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 
 
 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ENGLISH"  tvg-country="in" tvg-url="" group-title="HOTSTAR ALTERNATIVE",STar gold HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="hindi"  tvg-country="IN" tvg-url="" group-title="STAR HOTSTAR",star gold hdd 
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/11
 #EXTINF:0,STAR MOVIES SELECT FHD
 http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
@@ -4884,3 +4883,28 @@ https://stream.allsprk.tv/live/8/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://stream.allsprk.tv/9.png" group-title="",Channel-9
 https://stream.allsprk.tv/live/9/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
