@@ -1224,10 +1224,8 @@ http://iptv.mirrorace.net/?channelid=1254
 
 #EXTINF:0,tvg-id="" tvg-name="" tvg-language="hindi"  tvg-country="IN" tvg-url="" group-title="SPORTS",sky CRICKET
 http://f.ok2.se:8000/Fonzi/Fonzi/205
-
-#EXTINF:-1,ASTRO CRICKET
-
-http://1milltvbox.loginto.me:25461/MgjTVPzTY8/T3hIFzVMp6/10379
+#EXTINF:-1,Sky Sports Cricket FHD
+http://showmetv.me:80/Showmevip20/8581000/25970
 #EXTINF:-1,WWE HD
 http://66.northerniptv.ca:8000/golden123/golden123/168
 #EXTINF:-1,BT SPORTS 1 HD
