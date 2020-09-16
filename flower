@@ -1170,6 +1170,10 @@ http://iptv.mirrorace.net/?channelid=873
 http://iptv.mirrorace.net/?channelid=1081
 #EXTINF:-1,Animal Planet HD Tamil
 http://iptv.mirrorace.net/?channelid=1219
+#EXTINF:-1,SUN TV HD
+http://showmetv.me:80/Showmevip20/8581000/29653
+#EXTINF:-1,SUN Music
+http://showmetv.me:80/Showmevip20/8581000/29672
 
 
 
