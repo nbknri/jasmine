@@ -83,6 +83,20 @@ http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
 #EXTINF:-1,Star Plus HD
 http://195.181.169.129/StarPlusASIA-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:-1,IN : STAR SPORTS 1 HD 1080 50FPS H.264
+http://randomserver.site:2086/crystal/12345/94780
+#EXTINF:-1,IN : STAR SPORTS 1 HD 1080 H.264
+http://randomserver.site:2086/crystal/12345/94781
+#EXTINF:-1,IN : STAR SPORTS 2 HD
+http://randomserver.site:2086/crystal/12345/94784
+#EXTINF:-1,IN : STAR SPORTS 2 HD 1080 H.264
+http://randomserver.site:2086/crystal/12345/94785
+#EXTINF:-1,IN : STAR SPORTS HINDI 1 HD
+http://randomserver.site:2086/crystal/12345/94788
+#EXTINF:-1,IN : STAR SPORTS SELECT 1 HD
+http://randomserver.site:2086/crystal/12345/94789
+#EXTINF:-1,IN : STAR SPORTS SELECT 2 HD
+http://randomserver.site:2086/crystal/12345/94790
+#EXTINF:-1,IN : STAR SPORTS 1 HD 1080 50FPS H.264
 http://randomserver.site:2086/Bria/Bria/94780
 #EXTINF:-1,IN : STAR SPORTS 1 HD 1080 H.264
 http://randomserver.site:2086/Bria/Bria/94781
@@ -1286,7 +1300,20 @@ http://212.47.252.54/hls/stream.m3u8
 
 
 
-
+#EXTINF:-1,IN : STAR SPORTS 1 HD 1080 50FPS H.264
+http://randomserver.site:2086/crystal/12345/94780
+#EXTINF:-1,IN : STAR SPORTS 1 HD 1080 H.264
+http://randomserver.site:2086/crystal/12345/94781
+#EXTINF:-1,IN : STAR SPORTS 2 HD
+http://randomserver.site:2086/crystal/12345/94784
+#EXTINF:-1,IN : STAR SPORTS 2 HD 1080 H.264
+http://randomserver.site:2086/crystal/12345/94785
+#EXTINF:-1,IN : STAR SPORTS HINDI 1 HD
+http://randomserver.site:2086/crystal/12345/94788
+#EXTINF:-1,IN : STAR SPORTS SELECT 1 HD
+http://randomserver.site:2086/crystal/12345/94789
+#EXTINF:-1,IN : STAR SPORTS SELECT 2 HD
+http://randomserver.site:2086/crystal/12345/94790
 #EXTINF:-1,Star Sports HINDI
 http://showmetv.me:80/Showmevip20/8581000/29658
 #EXTINF:-1,Star Sports HINDI
