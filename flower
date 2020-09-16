@@ -163,6 +163,10 @@ http://livechannel.shemaroome.com/linearplayout/punjabi-linear-channel/chunklist
 http://akaram.zecast.net/akaram-live/akaramnew2/playlist.m3u8
 #EXTINF:-1,STAR GOLD FHD
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/11
+#EXTINF:-1,IN : STAR GOLD HD
+http://randomserver.site:2086/crystal/12345/94775
+#EXTINF:-1,IN : STAR GOLD SELECT
+http://randomserver.site:2086/crystal/12345/94776
 #EXTINF:-1,Zee Bollywood
 http://iptv.mirrorace.net/?channelid=487
 #EXTINF:-1,Zee Action
