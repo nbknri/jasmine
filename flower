@@ -1270,8 +1270,21 @@ http://66.northerniptv.ca:8000/golden123/golden123/84259
 http://212.47.252.54/hls/stream.m3u8
 
 
-#EXTINF:-1,STAR SPORTS 2 HD
-http://66.northerniptv.ca:8000/golden123/golden123/202
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,Star Sports HINDI
+http://showmetv.me:80/Showmevip20/8581000/29658
+#EXTINF:-1,Star Sports HINDI
+http://showmetv.me:80/Showmevip20/8581000/29659
 #EXTINF:-1,STAR SPORTS HINDI
 http://66.northerniptv.ca:8000/golden123/golden123/201
 #EXTINF:0,STAR SPORTS HINDI
