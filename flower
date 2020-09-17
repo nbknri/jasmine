@@ -78,34 +78,46 @@ https://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="hindi"  tvg-country="IN" tvg-url="" group-title="STAR HOTSTAR",star gold hdd 
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/11
-
+#EXTINF:-1,Star gold HD
+http://85.203.33.33:80/gKyJw1AH87/1YDJQ9iBPS/10161
+#EXTINF:-1,Star bharat HD
+http://85.203.33.33:80/gKyJw1AH87/1YDJQ9iBPS/10179
 #EXTINF:-1,Star Plus HD
 http://195.181.169.129/StarPlusASIA-Hin/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Star Plus HDD
+http://85.203.33.33:80/gKyJw1AH87/1YDJQ9iBPS/6248
+#EXTINF:-1,Star Gold Select HD
+http://85.203.33.33:80/gKyJw1AH87/1YDJQ9iBPS/6228
 
+
+#EXTINF:-1,STAR SPORTS 1
+http://85.203.33.33:80/gKyJw1AH87/1YDJQ9iBPS/18807
+#EXTINF:-1,STAR SPORTS 2 
+http://85.203.33.33:80/gKyJw1AH87/1YDJQ9iBPS/10165
 #EXTINF:-1,STAR SPORTS HINDI
 http://f.ok2.se:8000/Fonzi/Fonzi/201
 #EXTINF:0,STAR SPORTS HINDI best
 http://ok2.se:8000/victor1/victor123/201
-#EXTINF:-1,IN : STAR SPORTS 1 HD 1080 H.264
+#EXTINF:-1,STAR SPORTS 1 HD 1080 H.264
 http://randomserver.site:2086/crystal/12345/94781
-#EXTINF:-1,IN : STAR SPORTS 2 HD
+#EXTINF:-1,STAR SPORTS 2 HD
 http://randomserver.site:2086/crystal/12345/94784
-#EXTINF:-1,IN : STAR SPORTS HINDI 1 HD
+#EXTINF:-1,STAR SPORTS HINDI 1 HD
 http://randomserver.site:2086/crystal/12345/94788
-#EXTINF:-1,IN : STAR SPORTS SELECT 1 HD
+#EXTINF:-1,STAR SPORTS SELECT 1 HD
 http://randomserver.site:2086/crystal/12345/94789
-#EXTINF:-1,IN : STAR SPORTS SELECT 2 HD
+#EXTINF:-1,STAR SPORTS SELECT 2 HD
 http://randomserver.site:2086/crystal/12345/94790
 
-#EXTINF:-1,IN : STAR SPORTS 1 HD 1080 H.264
+#EXTINF:-1,STAR SPORTS 1 HD 1080 H.264
 http://randomserver.site:2086/Bria/Bria/94781
-#EXTINF:-1,IN : STAR SPORTS 2 HD
+#EXTINF:-1,STAR SPORTS 2 HD
 http://randomserver.site:2086/Bria/Bria/94784
-#EXTINF:-1,IN : STAR SPORTS HINDI 1 HD
+#EXTINF:-1,STAR SPORTS HINDI 1 HD
 http://randomserver.site:2086/Bria/Bria/94788
-#EXTINF:-1,IN : STAR SPORTS SELECT 1 HD
+#EXTINF:-1,STAR SPORTS SELECT 1 HD
 http://randomserver.site:2086/Bria/Bria/94789
-#EXTINF:-1,IN : STAR SPORTS SELECT 2 HD
+#EXTINF:-1,STAR SPORTS SELECT 2 HD
 http://randomserver.site:2086/Bria/Bria/94790
 
 #EXTINF:-0,Star Sports Select 1 HD
@@ -115,31 +127,40 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/52.m3u8
 #EXTINF:-0,Star Sports 1 HD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/53.m3u8
 
-#EXTINF:-1,SUN TV HD
-http://showmetv.me:80/Showmevip20/8581000/29653
-#EXTINF:-1,IN : MAA GOLD
+
+#EXTINF:-1,MAA GOLD
 http://randomserver.site:2086/Bria/Bria/94752
-#EXTINF:-1,IN : MAA HD
+#EXTINF:-1,MAA HD
 http://randomserver.site:2086/Bria/Bria/94753
-#EXTINF:-1,IN : MAA MOVIES
+#EXTINF:-1,MAA MOVIES
 http://randomserver.site:2086/Bria/Bria/94754
-#EXTINF:-1,IN : STAR SUVARNA
+#EXTINF:-1,STAR SUVARNA
 http://randomserver.site:2086/Bria/Bria/94811
-#EXTINF:-1,IN : STAR VIJAY HD
-http://randomserver.site:2086/Bria/Bria/94791
-#EXTINF:-1,IN : STAR VIJAY SUPER
+#EXTINF:-1,STAR VIJAY FHD BEST
+http://uk4.zecast.com:1935/star-live/vijayhd1/playlist.m3u8
+#EXTINF:-1,STAR VIJAY HD
+http://85.203.33.33:80/gKyJw1AH87/1YDJQ9iBPS/10174
+#EXTINF:-1,STAR VIJAY SUPER
 http://randomserver.site:2086/Bria/Bria/94807
-#EXTINF:-1,IN : JALSA MOVIES HD
+#EXTINF:-1,JALSA MOVIES HD
 http://randomserver.site:2086/Bria/Bria/94751
-#EXTINF:-1,IN : STAR JALSA HD
+#EXTINF:-1,STAR JALSA 
+http://85.203.33.33:80/gKyJw1AH87/1YDJQ9iBPS/12352
+#EXTINF:-1,STAR JALSA HD
 http://randomserver.site:2086/Bria/Bria/94777
-#EXTINF:-1,IN : ASIANET HD
+#EXTINF:-1,ASIANET HD
+http://85.203.33.33:80/gKyJw1AH87/1YDJQ9iBPS/10183
+#EXTINF:-1,ASIANET FHD
 http://randomserver.site:2086/Bria/Bria/94739
-#EXTINF:-1,IN : ASIANET MOVIES
+#EXTINF:-1,ASIANET movies SD
+http://85.203.33.33:80/gKyJw1AH87/1YDJQ9iBPS/6251
+#EXTINF:-1,ASIANET MOVIES HD
 http://randomserver.site:2086/Bria/Bria/94829
-#EXTINF:-1,IN : ASIANET PLUS
+#EXTINF:-1,ASIANET PLUS SD
+http://85.203.33.33:80/gKyJw1AH87/1YDJQ9iBPS/21537
+#EXTINF:-1,ASIANET PLUS HD
 http://randomserver.site:2086/Bria/Bria/94827
-#EXTINF:-1,IN : STAR PRAVAH HD
+#EXTINF:-1,STAR PRAVAH HD
 http://randomserver.site:2086/Bria/Bria/94779
 
 
@@ -148,6 +169,24 @@ http://randomserver.site:2086/Bria/Bria/94779
 
 
 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="hindi"  tvg-country="IN" tvg-url="" group-title="NXT SUNNXT",SUN TV HD
+http://85.203.33.33:80/gKyJw1AH87/1YDJQ9iBPS/10175
+#EXTINF:-1,KTV HD
+http://85.203.33.33:80/gKyJw1AH87/1YDJQ9iBPS/6230
+#EXTINF:-1,SUN MUSIC HD
+http://85.203.33.33:80/gKyJw1AH87/1YDJQ9iBPS/10176
+#EXTINF:-1,SUN LIFE
+http://85.203.33.33:80/gKyJw1AH87/1YDJQ9iBPS/10132
+#EXTINF:-1,GEMINI MOVIES HD
+http://85.203.33.33:80/gKyJw1AH87/1YDJQ9iBPS/10182
+#EXTINF:-1,Gemini Comedy HD
+http://85.203.33.33:80/gKyJw1AH87/1YDJQ9iBPS/10247
+#EXTINF:-1,Gemini TV HD
+http://85.203.33.33:80/gKyJw1AH87/1YDJQ9iBPS/10248
+#EXTINF:-1,SURYA HD
+http://85.203.33.33:80/gKyJw1AH87/1YDJQ9iBPS/20209
 
 
 
@@ -214,6 +253,8 @@ https://load.airtel.tv/sonymax/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
 https://m-c037-j2apps.s.llnwi.net/hls/7038.SonyMax2.in_480p/index_dvr.m3u8
 #EXTINF:-1 ,SONY WAH vip
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7026.SonyWah.in_720p/index_dvr.m3u8
+#EXTINF:-1 ,SONY WAH AIRTEL
+https://load.airtel.tv/sonywah/smil:common.smil/chunklist_b314000_sleng.m3u8
 #EXTINF:-1 ,FILMY VIP
 https://m-c15-j2apps.s.llnwi.net/hls/0079.Filmy.in_480p/index.m3u8
 #EXTINF:-1 ,FIRANGI VIP
@@ -5399,6 +5440,8 @@ http://iptv.mirrorace.net/?channelid=708
 http://iptv.mirrorace.net/?channelid=418
 #EXTINF:-1 tvg-id="417" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/J_Movies.png" group-title="tamil Movies",J Movies
 http://iptv.mirrorace.net/?channelid=417
+#EXTINF:-1 tvg-id="417" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/J_Movies.png" group-title="tamil Movies",J Movies airtel
+https://load.airtel.tv/jmovies/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
 #EXTINF:-1 tvg-id="673" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News7_Tamil.png" group-title="tamil News",News7 Tamil
 http://iptv.mirrorace.net/?channelid=673
 #EXTINF:-1 tvg-id="636" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_News.png" group-title="tamil News",Polimer News
