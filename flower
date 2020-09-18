@@ -242,6 +242,8 @@ http://z5amshls.akamaized.net/action/tracks-v2a1/playlist.m3u8
 https://z5amshls.akamaized.net/classic/tracks-v3a1/index.m3u8
 #EXTINF:-1,Zee Cinema HD
 http://iptv.mirrorace.net/?channelid=165
+#EXTINF:-17,  ZEE CINEMA USA z5
+http://z5amshls.akamaized.net/cinemausa/tracks-v1a1/playlist.m3u8
 #EXTINF:-1,ZEE CINEMA (IN)
 http://f.ok2.se:8000/victor1/victor123/1197
 #EXTINF:-1,ZEE CINEMA (NA)
@@ -390,28 +392,10 @@ http://iptv.mirrorace.net/?channelid=167
 http://z5amshls.akamaized.net/apacsea/tracks-v1a1/playlist.m3u8
 EXTINF:-1, ZEWORLD
 http://z5amshls.akamaized.net/world/tracks-v1a1/index.m3u8
-#EXTINF:-1,ZEE ACTION jio
-https://jiocdn.fun/jio/jiotv/live.php?c=Zee_Action&e=.m3u8
-#EXTINF:-1,ZEE ANMOL jio
-https://jiocdn.fun/jio/jiotv/live.php?c=Zee_Anmol&e=.m3u8
-#EXTINF:-12,  ZEE  ANMOL CINEMA jio
-https://jiocdn.fun/jio/jiotv/live.php?c=Zee_Anmol_Cinema&e=.m3u8
-#EXTINF:-0,  ZEE CINEMA jio
-https://jiocdn.fun/jio/jiotv/live.php?c=Zee_Cinema&e=.m3u8
-#EXTINF:-0,  ZEE CLASSIC JIO
-https://jiocdn.fun/jio/jiotv/live.php?c=Zee_Classic&e=.m3u8
-#EXTINF:-0,  COLORS CINEPLEX JIO
-https://jiocdn.fun/jio/jiotv/live.php?c=Colors_Cineplex_HD&e=.m3u8
-#EXTINF:-0,  COLORS FHD JIO
-https://jiocdn.fun/jio/jiotv/live.php?c=Colors_HD&e=.m3u8
-#EXTINF:-17,  ZEE CINEMA USA z5
-http://z5amshls.akamaized.net/cinemausa/tracks-v1a1/playlist.m3u8
 #EXTINF:-1,And TV HD
 http://iptv.mirrorace.net/?channelid=472
 #EXTINF:-1,Sony SAB HD
 http://iptv.mirrorace.net/?channelid=471
-
-
 #EXTINF:-1,ZEE TV (UK) (IN)
 http://f.ok2.se:8000/victor1/victor123/2176
 #EXTINF:-1,ZEE TV HD (IN)
