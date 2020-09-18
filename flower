@@ -80,7 +80,7 @@ https://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/11
 #EXTINF:-1,Star gold HD
 http://85.203.33.33:80/FqAreoF4Ql/U3UZG4k0Mk/10161
-#EXTINF:-1,Star gold FHD
+#EXTINF:-1,Star gold FHDD
 http://195.181.169.129/star_gold_Select-Hin/tracks-v1a2/mono.m3u8
 #EXTINF:-1,Star bharat HD
 http://85.203.33.33:80/FqAreoF4Ql/U3UZG4k0Mk/10179
@@ -5664,3 +5664,5 @@ http://iptv.mirrorace.net/?channelid=843
 http://iptv.mirrorace.net/?channelid=970 
 #EXTINF:-1 tvg-id="1417" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SVBC2.png" group-title="tamil Devotional",SVBC2
 http://iptv.mirrorace.net/?channelid=1417
+#EXTINF:-1 tvg-id="333" tvg-logo=" " group-title="tamil Movies",CLASSIC TAMIL
+https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytamcla.stream_all/playlist.m3u8
