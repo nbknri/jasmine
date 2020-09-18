@@ -80,6 +80,8 @@ https://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/11
 #EXTINF:-1,Star gold HD
 http://85.203.33.33:80/FqAreoF4Ql/U3UZG4k0Mk/10161
+#EXTINF:-1,Star gold FHD
+http://195.181.169.129/star_gold_Select-Hin/tracks-v1a2/mono.m3u8
 #EXTINF:-1,Star bharat HD
 http://85.203.33.33:80/FqAreoF4Ql/U3UZG4k0Mk/10179
 #EXTINF:-1,Star Plus HD
@@ -222,7 +224,9 @@ https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunk
 http://livechannel.shemaroome.com/linearplayout/punjabi-linear-channel/chunklist_1280x720_cf.m3u8
 #EXTINF:-1,non stop movies
 http://akaram.zecast.net/akaram-live/akaramnew2/playlist.m3u8
-#EXTINF:-1,STAR GOLD FHD
+#EXTINF:-1,Star gold FHD
+http://195.181.169.129/star_gold_Select-Hin/tracks-v1a2/mono.m3u8
+#EXTINF:-1,STAR GOLD HD1
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/11
 #EXTINF:-1,IN : STAR GOLD HD
 http://randomserver.site:2086/crystal/12345/94775
@@ -1590,7 +1594,7 @@ http://iptv.mirrorace.net/?channelid=164
 #EXTINF:-1,Travel XP HD Hindi
 http://iptv.mirrorace.net/?channelid=562
 #EXTINF:-1,Sony BBC Earth
-http://85.203.33.33:80/gKyJw1AH87/1YDJQ9iBPS/6226
+http://85.203.33.33:80/FqAreoF4Ql/U3UZG4k0Mk/6226
 #EXTINF:-1,Animal Planet Hindi
 http://iptv.mirrorace.net/?channelid=566 
 #EXTINF:-1,Discovery Channel Hindi
