@@ -1,4 +1,50 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD_1.png" group-title="IPL 2020 SPECIAL COVERAGE",STAR SPORTS 1 HD
+http://85.203.33.33:80/FqAreoF4Ql/U3UZG4k0Mk/18807
+#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD_1.png",Star Sports 1 HD
+http://randomserver.site:2086/crystal/12345/94781
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD_2.png",Star Sports 2 HD
+http://85.203.33.33:80/FqAreoF4Ql/U3UZG4k0Mk/10165
+#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD_2.png",Star Sports 2 HD
+http://randomserver.site:2086/crystal/12345/94784
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_3.png",Star Sports Hindi
+http://randomserver.site:2086/crystal/12345/94788
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_1.png",Star Sports Select HD1
+http://randomserver.site:2086/crystal/12345/94789
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_2.png",Star Sports Select HD2
+http://randomserver.site:2086/crystal/12345/94790
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_2.png",Star sports tamil
+http://randomserver.site:2086/123456789/123456789/94792
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://picon-13398.kxcdn.com/supersport12africa.jpg",SuperSport Cricket
+http://85.203.33.33:80/FqAreoF4Ql/U3UZG4k0Mk/28905
+#EXTINF:-1 tvg-id="" tvg-logo="https://picon-13398.kxcdn.com/foxsports501us.jpg",FOX Sports 501
+http://85.203.33.33:80/FqAreoF4Ql/U3UZG4k0Mk/33654
+#EXTINF:-1 tvg-id="" tvg-logo="https://picon-13398.kxcdn.com/skysportscricketuk.jpg",Sky Sports Cricket 1
+https://cdn.sha-256.org/2022631336/dkzmYLenTq/1609
+#EXTINF:-1 tvg-id="" tvg-logo="https://picon-13398.kxcdn.com/skysportscricketuk.jpg",Sky Sports Cricket 2
+http://85.203.33.33:80/FqAreoF4Ql/U3UZG4k0Mk/5601
+#EXTINF:-1 tvg-id="" tvg-logo="https://picon-13398.kxcdn.com/skysportscricketuk.jpg",Sky Sports Cricket 3
+http://85.203.33.33:80/FqAreoF4Ql/U3UZG4k0Mk/14750
+#EXTINF:-1 tvg-id="" tvg-logo="https://picon-13398.kxcdn.com/skysportscricketuk.jpg",Sky Sports Cricket 4
+http://85.203.33.33:80/FqAreoF4Ql/U3UZG4k0Mk/14652
+#EXTINF:-1 tvg-id="" tvg-logo="https://picon-13398.kxcdn.com/skysportscricketuk.jpg",Sky Sports Cricket 5
+http://66.northerniptv.ca:8000/golden123/golden123/205
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="hindi" tvg-country="IN" tvg-url="" group-title="MUSIC HINDI",MUSIC INDIA
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
 #EXTINF:-1,MTV
@@ -111,23 +157,6 @@ http://randomserver.site:2086/crystal/12345/94789
 #EXTINF:-1,STAR SPORTS SELECT 2 HD
 http://randomserver.site:2086/crystal/12345/94790
 
-#EXTINF:-1,STAR SPORTS 1 HD 1080 H.264
-http://randomserver.site:2086/Bria/Bria/94781
-#EXTINF:-1,STAR SPORTS 2 HD
-http://randomserver.site:2086/Bria/Bria/94784
-#EXTINF:-1,STAR SPORTS HINDI 1 HD
-http://randomserver.site:2086/Bria/Bria/94788
-#EXTINF:-1,STAR SPORTS SELECT 1 HD
-http://randomserver.site:2086/Bria/Bria/94789
-#EXTINF:-1,STAR SPORTS SELECT 2 HD
-http://randomserver.site:2086/Bria/Bria/94790
-
-#EXTINF:-0,Star Sports Select 1 HD
-http://iptv.kitv.live:1935/live/Shari/MTV-P/51.m3u8
-#EXTINF:-0,Star Sports Select 2 HD
-http://iptv.kitv.live:1935/live/Shari/MTV-P/52.m3u8
-#EXTINF:-0,Star Sports 1 HD
-http://iptv.kitv.live:1935/live/Shari/MTV-P/53.m3u8
 
 
 #EXTINF:-1,MAA GOLD
@@ -1309,14 +1338,9 @@ http://iptv.mirrorace.net/?channelid=1254
 
 #EXTINF:0,tvg-id="" tvg-name="" tvg-language="hindi"  tvg-country="IN" tvg-url="" group-title="SPORTS",sky CRICKET
 http://f.ok2.se:8000/Fonzi/Fonzi/205
-#EXTINF:-1,Sky Sports Cricket FHD
-http://showmetv.me:80/Showmevip20/8581000/25970
-#EXTINF:-1,SKY SPORTS CRICKET
-http://showmetv.me:80/Showmevip20/8581000/25982
-#EXTINF:-1,Sky Sports cricket HD
-http://showmetv.me:80/Showmevip20/8581000/25983
-#EXTINF:-1,Sky Sports Cricket SD
-http://showmetv.me:80/Showmevip20/8581000/40433
+#EXTINF:-1,beIN SPORTS cricket
+http://85.203.33.33:80/FqAreoF4Ql/U3UZG4k0Mk/21517
+
 #EXTINF:-1,Sky Sports Cricket HD
 http://85.203.33.33:80/FqAreoF4Ql/U3UZG4k0Mk/5601
 #EXTINF:-1,Sky Sports Cricket
@@ -1341,8 +1365,7 @@ http://randomserver.site:2086/crystal/12345/94797
 http://randomserver.site:2086/crystal/12345/15502
 #EXTINF:-1,WILLOWXTRA CRICKET
 http://randomserver.site:2086/crystal/12345/55997
-#EXTINF:-1,Sky Sports Cricket FHD
-http://showmetv.me:80/Showmevip20/8581000/25970
+
 #EXTINF:-1,WWE HD
 http://66.northerniptv.ca:8000/golden123/golden123/168
 #EXTINF:-1,BT SPORTS 1 HD
@@ -1353,8 +1376,6 @@ http://66.northerniptv.ca:8000/golden123/golden123/226
 http://66.northerniptv.ca:8000/golden123/golden123/232
 #EXTINF:-1,SKY SPORTS CRICKET
 http://66.northerniptv.ca:8000/golden123/golden123/205
-#EXTINF:0,SKY SPORTS CRICKET
-http://ok2.se:8000/victor1/victor123/205
 #EXTINF:-1,SKY CRIC b
 https://cdn.sha-256.org/2022631336/dkzmYLenTq/1609
 #EXTINF:-1,SKY CRIC d
@@ -1406,10 +1427,7 @@ http://randomserver.site:2086/Bria/Bria/94789
 #EXTINF:-1,IN : STAR SPORTS SELECT 2 HD
 http://randomserver.site:2086/Bria/Bria/94790
 
-#EXTINF:-1,Star Sports HINDI
-http://showmetv.me:80/Showmevip20/8581000/29658
-#EXTINF:-1,Star Sports HINDI bestt
-http://showmetv.me:80/Showmevip20/8581000/29659
+
 #EXTINF:-1,STAR SPORTS HINDI
 http://66.northerniptv.ca:8000/golden123/golden123/201
 #EXTINF:0,STAR SPORTS HINDI best
