@@ -196,8 +196,11 @@ https://load.airtel.tv/udayamovies/smil:common.smil/chunklist_b896000_DVR_sleng.
 #EXTINF:-1,UDAYA HD airtel
 https://load.airtel.tv/udayahd/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8 
 #EXTINF:-1,UDAYA comedy airtel
-https://load.airtel.tv/udayacomedy/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8 
-
+https://load.airtel.tv/udayacomedy/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
+#EXTINF:-1,UDAYA comedy airtel alt 
+https://load.airtel.tv/udayacomedy/smil:common.smil/index.m3u8
+#EXTINF:-1,UDAYA music airtel
+https://load.airtel.tv/udayamusic/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
 
 
 
@@ -227,6 +230,8 @@ http://randomserver.site:2086/crystal/12345/94775
 http://randomserver.site:2086/crystal/12345/94776
 #EXTINF:-1,UTV HD
 http://85.203.33.33:80/FqAreoF4Ql/U3UZG4k0Mk/6236
+#EXTINF:-22, THE Q INDIA
+https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720pl/chunklist.m3u8
 #EXTINF:-1,Zee Bollywood
 http://iptv.mirrorace.net/?channelid=487
 #EXTINF:-1,Zee Action
@@ -263,6 +268,8 @@ https://m-c066-j2apps.s.llnwi.net/hls_hd/7023.MAXHD.in_480p/index_dvr.m3u8
 https://load.airtel.tv/sonymax/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
 #EXTINF:-1 ,SONY MAX 2 vip
 https://m-c037-j2apps.s.llnwi.net/hls/7038.SonyMax2.in_480p/index_dvr.m3u8
+#EXTINF:-1 ,SONY MAX 2 airtel
+https://load.airtel.tv/sonymax2/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
 #EXTINF:-1 ,SONY WAH vip
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7026.SonyWah.in_720p/index_dvr.m3u8
 #EXTINF:-1 ,SONY WAH AIRTEL
@@ -378,9 +385,27 @@ http://iptv.mirrorace.net/?channelid=144
 #EXTINF:-1,Sony HD
 http://iptv.mirrorace.net/?channelid=291 
 #EXTINF:-1,Zee TV HD
-http://iptv.mirrorace.net/?channelid=167 
-EXTINF:-1, ZEWORD
+http://iptv.mirrorace.net/?channelid=167
+#EXTINF:-1,ZEE TV UK
+http://z5amshls.akamaized.net/apacsea/tracks-v1a1/playlist.m3u8
+EXTINF:-1, ZEWORLD
 http://z5amshls.akamaized.net/world/tracks-v1a1/index.m3u8
+#EXTINF:-1,ZEE ACTION jio
+https://jiocdn.fun/jio/jiotv/live.php?c=Zee_Action&e=.m3u8
+#EXTINF:-1,ZEE ANMOL jio
+https://jiocdn.fun/jio/jiotv/live.php?c=Zee_Anmol&e=.m3u8
+#EXTINF:-12,  ZEE  ANMOL CINEMA jio
+https://jiocdn.fun/jio/jiotv/live.php?c=Zee_Anmol_Cinema&e=.m3u8
+#EXTINF:-0,  ZEE CINEMA jio
+https://jiocdn.fun/jio/jiotv/live.php?c=Zee_Cinema&e=.m3u8
+#EXTINF:-0,  ZEE CLASSIC JIO
+https://jiocdn.fun/jio/jiotv/live.php?c=Zee_Classic&e=.m3u8
+#EXTINF:-0,  COLORS CINEPLEX JIO
+https://jiocdn.fun/jio/jiotv/live.php?c=Colors_Cineplex_HD&e=.m3u8
+#EXTINF:-0,  COLORS FHD JIO
+https://jiocdn.fun/jio/jiotv/live.php?c=Colors_HD&e=.m3u8
+#EXTINF:-17,  ZEE CINEMA USA z5
+http://z5amshls.akamaized.net/cinemausa/tracks-v1a1/playlist.m3u8
 #EXTINF:-1,And TV HD
 http://iptv.mirrorace.net/?channelid=472
 #EXTINF:-1,Sony SAB HD
@@ -5616,7 +5641,19 @@ http://iptv.mirrorace.net/?channelid=749
 #EXTINF:-1 tvg-id="603" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nambikkai.png" group-title="tamil Devotional",Nambikkai
 http://iptv.mirrorace.net/?channelid=603
 #EXTINF:-1 tvg-id="814" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_Tamil.png" group-title="tamil Infotainment",Travel XP Tamil
-http://iptv.mirrorace.net/?channelid=814 
+http://iptv.mirrorace.net/?channelid=814
+#EXTINF:-1, 7star tv
+http://media.7starcloud.com:1935/live/7star/chunklist_w1975158563.m3u8
+#EXTINF:-1,3tamil
+https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
+#EXTINF:-1,ctn
+https://streamspace.live/hls/ctn/livestream.m3u8
+#EXTINF:-1,aadhavantv
+http://media.7starcloud.com:1935/live/aadhavantv/playlist.m3u8
+#EXTINF:-1,amma
+http://ammacable.com:1935/acn/ammachannel/playlist.m3u8
+#EXTINF:-1,acn cinema
+http://ammacable.com:1935/acn/acncinema/playlist.m3u8 
 #EXTINF:-1 tvg-id="857" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Vendhar_TV.png" group-title="tamil Entertainment",Vendhar TV
 http://iptv.mirrorace.net/?channelid=857 
 #EXTINF:-1 tvg-id="726" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD5_Podhigai.png" group-title="tamil Entertainment",DD5 Podhigai
