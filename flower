@@ -21,6 +21,14 @@ http://randomserver.site:2086/crystal/12345/94790
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_2.png",Star sports tamil
 http://randomserver.site:2086/123456789/123456789/94792
+#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD_1.png",Star Sports 1
+http://zer0live.hjkm.info:11990/juno/starsports1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD_2.png",Star Sports 2
+http://zer0live.hjkm.info:11990/juno/starsports2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_1.png",Star Sports Select 1
+http://zer0live.hjkm.info:11990/juno/starsportsselect1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_2.png",Star Sports Select 2
+http://zer0live.hjkm.info:11990/juno/starsportsselect2/playlist.m3u8
 
 
 
@@ -5684,3 +5692,7 @@ http://iptv.mirrorace.net/?channelid=970
 http://iptv.mirrorace.net/?channelid=1417
 #EXTINF:-1 tvg-id="333" tvg-logo=" " group-title="tamil Movies",CLASSIC TAMIL
 https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytamcla.stream_all/playlist.m3u8
+
+
+
+
