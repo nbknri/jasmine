@@ -1,18 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU" group-title="IPL 2020 SPECIAL COVERAGE",STAR SPORTS 1 HD
-http://85.203.33.33:80/FqAreoF4Ql/U3UZG4k0Mk/18807
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU",IPL AD FREE
-http://85.203.33.33:80/FqAreoF4Ql/U3UZG4k0Mk/33654
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU",IPL AD FREEE
-http://85.203.33.33:80/FqAreoF4Ql/U3UZG4k0Mk/28905
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU",IPL AD free3
-http://85.203.33.33:80/FqAreoF4Ql/U3UZG4k0Mk/21517
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU",IPL ADfree4
-http://85.203.33.33:80/FqAreoF4Ql/U3UZG4k0Mk/23450
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU",Star Sports 2 HD
-http://85.203.33.33:80/FqAreoF4Ql/U3UZG4k0Mk/10165
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU",IPL HINDI ALT
-http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/11
+http://85.203.33.33:80/zd8y3PI691/FKcsZM020/18807
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU",ADFREE IPL
+http://85.203.33.33:80/zd8y3PI691/FKcsZM020/21517
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU",STAR SPORTS english
 http://66.northerniptv.ca:8000/golden123/golden123/201
 #EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD_1.png",Star Sports 1 HD
@@ -38,10 +29,7 @@ http://randomserver.site:2086/crystal/12345/94790
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU",SuperSport Cricket
-http://85.203.33.33:80/FqAreoF4Ql/U3UZG4k0Mk/28905
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU",FOX Sports 501
-https://bit.ly/3kzE38S
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://picon-13398.kxcdn.com/skysportscricketuk.jpg",Sky Sports Cricket 1
 https://cdn.sha-256.org/2022631336/dkzmYLenTq/1609
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU",Sky Sports Cricket 2
@@ -135,8 +123,6 @@ https://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="hindi"  tvg-country="IN" tvg-url="" group-title="STAR HOTSTAR",star gold hdd 
-http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/11
-#EXTINF:-1,Star gold HD
 http://85.203.33.33:80/FqAreoF4Ql/U3UZG4k0Mk/10161
 #EXTINF:-1,Star gold FHDD
 http://195.181.169.129/star_gold_Select-Hin/tracks-v1a2/mono.m3u8
@@ -150,10 +136,7 @@ http://85.203.33.33:80/FqAreoF4Ql/U3UZG4k0Mk/6248
 http://85.203.33.33:80/FqAreoF4Ql/U3UZG4k0Mk/6228
 
 
-#EXTINF:-1,STAR SPORTS 1
-http://85.203.33.33:80/FqAreoF4Ql/U3UZG4k0Mk/18807
-#EXTINF:-1,STAR SPORTS 2 
-http://85.203.33.33:80/FqAreoF4Ql/U3UZG4k0Mk/10165
+
 #EXTINF:-1,STAR SPORTS HINDI
 http://f.ok2.se:8000/Fonzi/Fonzi/201
 #EXTINF:0,STAR SPORTS HINDI best
@@ -267,8 +250,7 @@ http://livechannel.shemaroome.com/linearplayout/punjabi-linear-channel/chunklist
 http://akaram.zecast.net/akaram-live/akaramnew2/playlist.m3u8
 #EXTINF:-1,Star gold FHD
 http://195.181.169.129/star_gold_Select-Hin/tracks-v1a2/mono.m3u8
-#EXTINF:-1,STAR GOLD HD1
-http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/11
+
 #EXTINF:-1,IN : STAR GOLD HD
 http://randomserver.site:2086/crystal/12345/94775
 #EXTINF:-1,IN : STAR GOLD SELECT
