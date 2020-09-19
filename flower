@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU" group-title="IPL 2020 SPECIAL COVERAGE",STAR SPORTS 1 HD
 http://85.203.33.33:80/FqAreoF4Ql/U3UZG4k0Mk/18807
-#EXTINF:-1,IPL HINDI
-http://fs1.bonsaiprolink.xyz/ipl/bonsaihd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU",Star Sports 2 HD
 http://85.203.33.33:80/FqAreoF4Ql/U3UZG4k0Mk/10165
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU",IPL HINDI ALT
