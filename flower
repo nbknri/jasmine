@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD_1.png" group-title="IPL 2020 SPECIAL COVERAGE",STAR SPORTS 1 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU" group-title="IPL 2020 SPECIAL COVERAGE",STAR SPORTS 1 HD
 http://85.203.33.33:80/FqAreoF4Ql/U3UZG4k0Mk/18807
 #EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD_1.png",Star Sports 1 HD
 http://randomserver.site:2086/crystal/12345/94781
@@ -5831,3 +5831,8 @@ http://iptv.mirrorace.net/?channelid=1187
 http://iptv.mirrorace.net/?channelid=1186
 #EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Hamari_Sanskruti_TV.png" group-title="gujarati Devotional",Hamari Sanskruti
 http://iptv.mirrorace.net/?channelid=1099 
+
+
+
+
+
