@@ -396,40 +396,7 @@ http://iptv.mirrorace.net/?channelid=1158
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="MARATHI"  tvg-country="IN" tvg-url="" group-title="MARATHI",Lokshahi News
-http://iptv.mirrorace.net/?channelid=1293
-#EXTINF:-1,Nick Marathi
-http://iptv.mirrorace.net/?channelid=1342
-#EXTINF:-1,Sonic Marathi
-http://iptv.mirrorace.net/?channelid=1346
-#EXTINF:-1,Colors Marathi HD
-http://iptv.mirrorace.net/?channelid=755
-#EXTINF:-1,Zee Marathi
-http://iptv.mirrorace.net/?channelid=445
-#EXTINF:-1,Star Pravah HD
-http://iptv.mirrorace.net/?channelid=336
-#EXTINF:-1,ABP Majha
-http://iptv.mirrorace.net/?channelid=612
-#EXTINF:-1,Zee 24 Taas
-http://iptv.mirrorace.net/?channelid=442
-#EXTINF:-1,Zee Yuva
-http://iptv.mirrorace.net/?channelid=414
-#EXTINF:-1,Zee Talkies
-http://iptv.mirrorace.net/?channelid=153
-#EXTINF:-1,Sony Marathi SD
-http://iptv.mirrorace.net/?channelid=1146
-#EXTINF:-1,Saam Tv
-http://iptv.mirrorace.net/?channelid=691
-#EXTINF:-1,9x Jhakaas
-http://iptv.mirrorace.net/?channelid=441
-#EXTINF:-1,Maiboli
-http://iptv.mirrorace.net/?channelid=736
-#EXTINF:-1,Sangeet Marathi
-http://iptv.mirrorace.net/?channelid=735
-#EXTINF:-1,Fakt Marathi
-http://iptv.mirrorace.net/?channelid=738
-#EXTINF:-1,Rangamanch
-http://iptv.mirrorace.net/?channelid=1151
+
 
 
 
@@ -964,32 +931,6 @@ http://13.232.161.202:1935/musicIn/smil:Live.smil/chunklist_w1893712061_b1396000
 
 
 
-#EXTINF:0,tvg-id="" tvg-name="" tvg-language="gujarati"  tvg-country="IN" tvg-url="" group-title="GUJARATI",Colors Gujarati
-http://iptv.mirrorace.net/?channelid=196
-#EXTINF:-1,News18 Gujarati
-http://iptv.mirrorace.net/?channelid=620
-#EXTINF:-1,VTV Gujarati
-http://iptv.mirrorace.net/?channelid=642
-#EXTINF:-1,Nick Gujarati
-http://iptv.mirrorace.net/?channelid=1343
-#EXTINF:-1,Sonic Gujarati
-http://iptv.mirrorace.net/?channelid=1347
-#EXTINF:-1,Tv 9 Gujarat
-http://iptv.mirrorace.net/?channelid=616
-#EXTINF:-1,GS TV
-http://iptv.mirrorace.net/?channelid=643
-#EXTINF:-1,ABP Asmita
-http://iptv.mirrorace.net/?channelid=641
-#EXTINF:-1,Zee 24 Kalak
-http://iptv.mirrorace.net/?channelid=929
-
-
-
-
-
-
-
-
 
 
 
@@ -1187,42 +1128,6 @@ http://three.somee.com/web.php?e.m3u8&c=indianewsgujarat
 
 
 
-#EXTINF:0,tvg-id="" tvg-name="" tvg-language="TAMIL"  tvg-country="IN" tvg-url="" group-title="TAMIL",Zee Tamil
-http://iptv.mirrorace.net/?channelid=628
-#EXTINF:-1,Colors Tamil HD
-http://iptv.mirrorace.net/?channelid=429
-#EXTINF:-1,Nick Tamil
-http://iptv.mirrorace.net/?channelid=546 
-#EXTINF:-1,Pogo Tamil
-http://iptv.mirrorace.net/?channelid=542
-#EXTINF:-1,Cartoon Network Tamil
-http://iptv.mirrorace.net/?channelid=817
-#EXTINF:-1,D Tamil
-http://iptv.mirrorace.net/?channelid=569 
-#EXTINF:-1,History TV18 HD Tamil
-http://iptv.mirrorace.net/?channelid=579
-#EXTINF:-1,Travel XP Tamil
-http://iptv.mirrorace.net/?channelid=814
-#EXTINF:-1,Sony BBC Earth HD Tamil
-http://iptv.mirrorace.net/?channelid=853
-#EXTINF:-1,News7 Tamil
-http://iptv.mirrorace.net/?channelid=673
-#EXTINF:-1,News 18 Tamilnadu
-http://iptv.mirrorace.net/?channelid=615
-#EXTINF:-1,sonic Tamil
-http://iptv.mirrorace.net/?channelid=290
-#EXTINF:-1,Discovery Kids Tamil
-http://iptv.mirrorace.net/?channelid=550
-#EXTINF:-1,Sony Yay Tamil
-http://iptv.mirrorace.net/?channelid=873
-#EXTINF:-1,CN HD+ Tamil
-http://iptv.mirrorace.net/?channelid=1081
-#EXTINF:-1,Animal Planet HD Tamil
-http://iptv.mirrorace.net/?channelid=1219
-#EXTINF:-1,SUN TV HD
-http://showmetv.me:80/Showmevip20/8581000/29653
-#EXTINF:-1,SUN Music
-http://showmetv.me:80/Showmevip20/8581000/29672
 
 
 
@@ -1232,34 +1137,8 @@ http://showmetv.me:80/Showmevip20/8581000/29672
 
 
 
-#EXTINF:0,tvg-id="" tvg-name="" tvg-language="TELUGU"  tvg-country="IN" tvg-url="" group-title="TELUGU",TV9 Telugu News
-http://iptv.mirrorace.net/?channelid=618
-#EXTINF:-1,Zee Telugu
-http://iptv.mirrorace.net/?channelid=638
-#EXTINF:-1,ETV Telugu
-http://iptv.mirrorace.net/?channelid=629
-#EXTINF:-1,Nick Telugu
-http://iptv.mirrorace.net/?channelid=543
-#EXTINF:-1,Discovery Channel Telugu
-http://iptv.mirrorace.net/?channelid=576
-#EXTINF:-1,History TV18 HD Telugu
-http://iptv.mirrorace.net/?channelid=577
-#EXTINF:-1,Sony BBC Earth HD Telugu
-http://iptv.mirrorace.net/?channelid=854
-#EXTINF:-1,Raj Music Telugu
-http://iptv.mirrorace.net/?channelid=737
-#EXTINF:-1,Cartoon Network Telugu
-http://iptv.mirrorace.net/?channelid=166
-#EXTINF:-1,Raj News Telugu
-http://iptv.mirrorace.net/?channelid=664
-#EXTINF:-1,Sony Yay Telugu
-http://iptv.mirrorace.net/?channelid=874
-#EXTINF:-1,CN HD+ Telugu
-http://iptv.mirrorace.net/?channelid=1080
-#EXTINF:-1,Sonic Telugu
-http://iptv.mirrorace.net/?channelid=1242
-#EXTINF:-1,Aastha Telugu
-http://iptv.mirrorace.net/?channelid=1254
+
+
 
 
 
