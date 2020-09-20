@@ -4987,7 +4987,7 @@ http://ok2.se:8000/victor1/victor123/1771
 
 
 
-#EXTINF:-1 tvg-logo="https://allsprk.tv/img/poster.png" group-title="",SPARKS TV(Series Movies Animes)
+#EXTINF:-1 tvg-logo="https://allsprk.tv/img/poster.png" group-title="SPARKS TV",SPARKS TV
 https://stream.allsprk.tv/live/test/index.m3u8
 
 #EXTINF:-1,sparks a
@@ -5347,6 +5347,10 @@ http://flowfhd.xyz:25461/Michelle/2020/9962
 
 
 
+
+
+#EXTINF:-1 tvg-id="333" tvg-logo=" " group-title="tamil Movies",CLASSIC TAMIL
+https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytamcla.stream_all/playlist.m3u8
 #EXTINF:-1, 7star tv
 http://media.7starcloud.com:1935/live/7star/chunklist_w1975158563.m3u8
 #EXTINF:-1,3tamil
@@ -5359,6 +5363,3 @@ http://media.7starcloud.com:1935/live/aadhavantv/playlist.m3u8
 http://ammacable.com:1935/acn/ammachannel/playlist.m3u8
 #EXTINF:-1,acn cinema
 http://ammacable.com:1935/acn/acncinema/playlist.m3u8 
-
-#EXTINF:-1 tvg-id="333" tvg-logo=" " group-title="tamil Movies",CLASSIC TAMIL
-https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytamcla.stream_all/playlist.m3u8
