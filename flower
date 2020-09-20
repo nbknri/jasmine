@@ -1,6 +1,54 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU" group-title="IPL 2020 SPECIAL COVERAGE",IPL SKY
+https://cdn.sha-256.org/2022631336/dkzmYLenTq/1609
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU",IPL SKY ONE
+http://66.northerniptv.ca:8000/golden123/golden123/205
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU",ADFREE IPL SUPER
+http://66.northerniptv.ca:8000/golden123/golden123/81947
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU",ADFREE IPL SUPER1
+http://randomserver.site:2086/999999999/999999999/90482
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU",ADFREE IPL SUPER
+http://f.ok2.se:8000/victor1/victor123/81947
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU",ADFREE IPL BEIN
+http://66.northerniptv.ca:8000/golden123/golden123/74478
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU",ADFREE IPL BEIN1
+http://85.203.33.33:80/zd8y3PI691/FKcsZM020/21517
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU",ADFREE IPL BEIN2
+http://randomserver.site:2086/999999999/999999999/66784
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU",STAR SPORTS HINDI test
+http://mytv.fun:8080/sallypehlmlee/fg5yhNdser2/5431
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU",STAR SPORTS PURE
+http://66.northerniptv.ca:8000/golden123/golden123/202
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU",STAR SPORTS ENGLISH
+http://66.northerniptv.ca:8000/golden123/golden123/201
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU",STAR SPORTS
+http://f.ok2.se:8000/victor1/victor123/201
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU",STAR SPORTS 1 HD
+http://randomserver.site:2086/999999999/999999999/94780
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU",STAR SPORTS 1
+http://randomserver.site:2086/999999999/999999999/94781
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU",STAR SPORTS 2 HD
+http://randomserver.site:2086/999999999/999999999/94784
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU",STAR SPORTS 2 HD
+http://randomserver.site:2086/999999999/999999999/94785
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU",STAR SPORTS HINDI 1
+http://randomserver.site:2086/999999999/999999999/94788
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU",STAR SPORTS 1 HD
+http://randomserver.site:2086/999999999/999999999/94789
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU",STAR SPORTS1
+http://randomserver.site:2086/999999999/999999999/94790
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU",STAR SPORTS
+http://randomserver.site:2086/999999999/999999999/94792
 
 
 
@@ -1151,35 +1199,8 @@ http://three.somee.com/web.php?e.m3u8&c=indianewsgujarat
 
 #EXTINF:0,tvg-id="" tvg-name="" tvg-language="hindi"  tvg-country="IN" tvg-url="" group-title="SPORTS",sky CRICKET
 http://f.ok2.se:8000/Fonzi/Fonzi/205
-#EXTINF:-1,beIN SPORTS cricket
-http://85.203.33.33:80/FqAreoF4Ql/U3UZG4k0Mk/21517
 #EXTINF:-1,SKY SPORTS CRICKET
 http://f.ok2.se:8000/victor1/victor123/205
-#EXTINF:-1,Sky Sports Cricket HD
-http://85.203.33.33:80/FqAreoF4Ql/U3UZG4k0Mk/5601
-#EXTINF:-1,Sky Sports Cricket
-http://85.203.33.33:80/FqAreoF4Ql/U3UZG4k0Mk/14750
-#EXTINF:-1,Sky Sports Cricket FHD
-http://85.203.33.33:80/FqAreoF4Ql/U3UZG4k0Mk/14652
-#EXTINF:-1,FOX Sports 501 HD AU
-http://85.203.33.33:80/FqAreoF4Ql/U3UZG4k0Mk/33654
-#EXTINF:-1,Astro Cricket HD
-http://85.203.33.33:80/FqAreoF4Ql/U3UZG4k0Mk/23450
-#EXTINF:-1,Super sports africa cricket
-http://85.203.33.33:80/FqAreoF4Ql/U3UZG4k0Mk/28905
-#EXTINF:-1,Willow Cricket
-http://85.203.33.33:80/FqAreoF4Ql/U3UZG4k0Mk/13689
-#EXTINF:-1,WILLOW HD
-http://showmetv.me:80/Showmevip20/8581000/29682
-#EXTINF:-1,SKY SPORTS CRICKET
-http://randomserver.site:2086/crystal/12345/51106
-#EXTINF:-1,WILLOW CRICKET HD
-http://randomserver.site:2086/crystal/12345/94797
-#EXTINF:-1,WILLOW CRICKET
-http://randomserver.site:2086/crystal/12345/15502
-#EXTINF:-1,WILLOWXTRA CRICKET
-http://randomserver.site:2086/crystal/12345/55997
-
 #EXTINF:-1,WWE HD
 http://66.northerniptv.ca:8000/golden123/golden123/168
 #EXTINF:-1,BT SPORTS 1 HD
@@ -1194,10 +1215,6 @@ http://66.northerniptv.ca:8000/golden123/golden123/205
 https://cdn.sha-256.org/2022631336/dkzmYLenTq/1609
 #EXTINF:-1,SKY CRIC d
 https://cdn.sha-256.org/2022631336/dkzmYLenTq/666269
-#EXTINF:-1,Eleven Sport Cricket
-http://star.superstream.best:8080/gkW7sbRIb5/ogwU5RGKRu/173332
-#EXTINF:-1,ELEVEN SPORTS CRICKET
-http://fast.superstream.best:8080/ewraqxmf/IXmy6k37o9/173332
 #EXTINF:-1,WILLOW CRICKET HD
 http://66.northerniptv.ca:8000/golden123/golden123/198
 #EXTINF:-1,WILLOW XTRA HD
@@ -1219,27 +1236,6 @@ http://66.northerniptv.ca:8000/golden123/golden123/84259
 #EXTINF:-1,ADs sports cricket
 http://212.47.252.54/hls/stream.m3u8
 
-#EXTINF:-1,IN : STAR SPORTS 1 HD 1080 H.264
-http://randomserver.site:2086/crystal/12345/94781
-#EXTINF:-1,IN : STAR SPORTS 2 HD
-http://randomserver.site:2086/crystal/12345/94784
-#EXTINF:-1,IN : STAR SPORTS HINDI 1 HD
-http://randomserver.site:2086/crystal/12345/94788
-#EXTINF:-1,IN : STAR SPORTS SELECT 1 HD
-http://randomserver.site:2086/crystal/12345/94789
-#EXTINF:-1,IN : STAR SPORTS SELECT 2 HD
-http://randomserver.site:2086/crystal/12345/94790
-
-#EXTINF:-1,IN : STAR SPORTS 1 HD 1080 H.264
-http://randomserver.site:2086/Bria/Bria/94781
-#EXTINF:-1,IN : STAR SPORTS 2 HD
-http://randomserver.site:2086/Bria/Bria/94784
-#EXTINF:-1,IN : STAR SPORTS HINDI 1 HD
-http://randomserver.site:2086/Bria/Bria/94788
-#EXTINF:-1,IN : STAR SPORTS SELECT 1 HD
-http://randomserver.site:2086/Bria/Bria/94789
-#EXTINF:-1,IN : STAR SPORTS SELECT 2 HD
-http://randomserver.site:2086/Bria/Bria/94790
 
 
 #EXTINF:-1,STAR SPORTS HINDI
