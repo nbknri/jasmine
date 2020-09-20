@@ -75,18 +75,27 @@ https://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="hindi"  tvg-country="IN" tvg-url="" group-title="STAR HOTSTAR",star gold hdd 
-http://195.181.169.129/star_gold_Select-Hin/tracks-v1a2/mono.m3u8
-#EXTINF:-1,Star gold FHDD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="hindi"  tvg-country="IN" tvg-url="" group-title="STAR HOTSTAR",star gold
+http://randomserver.site:2086/999999999/999999999/94663
+#EXTINF:-1,Star gold 
+http://randomserver.site:2086/999999999/999999999/94775
+#EXTINF:-1,Star gold select
+http://randomserver.site:2086/999999999/999999999/94776
+#EXTINF:-1,Star gold select hd
 http://195.181.169.129/star_gold_Select-Hin/tracks-v1a2/mono.m3u8
 #EXTINF:-1,Star bharat HD
-http://85.203.33.33:80/FqAreoF4Ql/U3UZG4k0Mk/10179
+http://randomserver.site:2086/999999999/999999999/91833
+#EXTINF:-1,Star bharat
+http://randomserver.site:2086/999999999/999999999/94673
 #EXTINF:-1,Star Plus HD
 http://195.181.169.129/StarPlusASIA-Hin/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Star PLUS FHD
+http://randomserver.site:2086/999999999/999999999/91828
 #EXTINF:-1,Star Plus HDD
-http://195.181.169.129/StarPlusASIA-Hin/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Star Gold Select HD
-http://85.203.33.33:80/FqAreoF4Ql/U3UZG4k0Mk/6228
+http://randomserver.site:2086/999999999/999999999/94679
+#EXTINF:-1,STAR PLUS HD
+http://randomserver.site:2086/999999999/999999999/94678
+
 
 
 
@@ -94,53 +103,36 @@ http://85.203.33.33:80/FqAreoF4Ql/U3UZG4k0Mk/6228
 http://f.ok2.se:8000/Fonzi/Fonzi/201
 #EXTINF:0,STAR SPORTS HINDI best
 http://ok2.se:8000/victor1/victor123/201
-#EXTINF:-1,STAR SPORTS 1 HD 1080 H.264
-http://randomserver.site:2086/crystal/12345/94781
-#EXTINF:-1,STAR SPORTS 2 HD
-http://randomserver.site:2086/crystal/12345/94784
-#EXTINF:-1,STAR SPORTS HINDI 1 HD
-http://randomserver.site:2086/crystal/12345/94788
-#EXTINF:-1,STAR SPORTS SELECT 1 HD
-http://randomserver.site:2086/crystal/12345/94789
-#EXTINF:-1,STAR SPORTS SELECT 2 HD
-http://randomserver.site:2086/crystal/12345/94790
+
 
 
 
 #EXTINF:-1,MAA GOLD
-http://randomserver.site:2086/Bria/Bria/94752
+http://randomserver.site:2086/999999999/999999999/94752
 #EXTINF:-1,MAA HD
-http://thequeentv.net:8080/dpnbys6jsh/lG9gBKddXm/123695
+http://randomserver.site:2086/999999999/999999999/94753
 #EXTINF:-1,MAA MOVIES
-http://randomserver.site:2086/Bria/Bria/94754
+http://randomserver.site:2086/999999999/999999999/94754
 #EXTINF:-1,STAR SUVARNA
-http://randomserver.site:2086/Bria/Bria/94811
+http://randomserver.site:2086/999999999/999999999/94811
 #EXTINF:-1,STAR VIJAY FHD BEST
 http://uk4.zecast.com:1935/star-live/vijayhd1/playlist.m3u8
 #EXTINF:-1,STAR VIJAY HD
-http://85.203.33.33:80/FqAreoF4Ql/U3UZG4k0Mk/10174
+http://randomserver.site:2086/999999999/999999999/94791
 #EXTINF:-1,STAR VIJAY SUPER
-http://randomserver.site:2086/Bria/Bria/94807
-#EXTINF:-1,JALSA MOVIES HD
-http://randomserver.site:2086/Bria/Bria/94751
-#EXTINF:-1,STAR JALSA 
-http://85.203.33.33:80/FqAreoF4Ql/U3UZG4k0Mk/12352
+http://randomserver.site:2086/999999999/999999999/94807
+#EXTINF:-1,JALSA MOVIES FHD
+http://randomserver.site:2086/999999999/999999999/94751
 #EXTINF:-1,STAR JALSA HD
-http://randomserver.site:2086/Bria/Bria/94777
+http://randomserver.site:2086/999999999/999999999/94777
 #EXTINF:-1,ASIANET HD
-http://85.203.33.33:80/FqAreoF4Ql/U3UZG4k0Mk/10183
-#EXTINF:-1,ASIANET FHD
-http://randomserver.site:2086/Bria/Bria/94739
-#EXTINF:-1,ASIANET movies SD
-http://85.203.33.33:80/FqAreoF4Ql/U3UZG4k0Mk/6251
+http://randomserver.site:2086/999999999/999999999/94739
 #EXTINF:-1,ASIANET MOVIES HD
-http://randomserver.site:2086/Bria/Bria/94829
-#EXTINF:-1,ASIANET PLUS SD best
-http://85.203.33.33:80/FqAreoF4Ql/U3UZG4k0Mk/21537
+http://randomserver.site:2086/999999999/999999999/94829
 #EXTINF:-1,ASIANET PLUS HD
-http://randomserver.site:2086/Bria/Bria/94827
+http://randomserver.site:2086/999999999/999999999/94827
 #EXTINF:-1,STAR PRAVAH HD
-http://randomserver.site:2086/Bria/Bria/94779
+http://randomserver.site:2086/999999999/999999999/94779
 
 
 
@@ -5357,3 +5349,12 @@ http://media.7starcloud.com:1935/live/aadhavantv/playlist.m3u8
 http://ammacable.com:1935/acn/ammachannel/playlist.m3u8
 #EXTINF:-1,acn cinema
 http://ammacable.com:1935/acn/acncinema/playlist.m3u8 
+
+
+
+
+
+
+
+
+
