@@ -143,23 +143,21 @@ http://randomserver.site:2086/999999999/999999999/94779
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="hindi"  tvg-country="IN" tvg-url="" group-title="NXT SUNNXT",SUN TV HD
-http://85.203.33.33:80/FqAreoF4Ql/U3UZG4k0Mk/10175
+http://randomserver.site:2086/999999999/999999999/94794
 #EXTINF:-1,KTV HD
-http://85.203.33.33:80/FqAreoF4Ql/U3UZG4k0Mk/6230
+http://randomserver.site:2086/999999999/999999999/91856
 #EXTINF:-1,SUN MUSIC HD
-http://85.203.33.33:80/FqAreoF4Ql/U3UZG4k0Mk/10176
-#EXTINF:-1,SUN LIFE
-http://85.203.33.33:80/FqAreoF4Ql/U3UZG4k0Mk/10132
+http://randomserver.site:2086/999999999/999999999/94828
 #EXTINF:-1,SUN LIFE airtel
 https://load.airtel.tv/sunlife/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
 #EXTINF:-1,GEMINI MOVIES HD
-http://85.203.33.33:80/FqAreoF4Ql/U3UZG4k0Mk/10182
+http://randomserver.site:2086/999999999/999999999/94808
 #EXTINF:-1,Gemini Comedy HD
-http://85.203.33.33:80/FqAreoF4Ql/U3UZG4k0Mk/10247
+http://randomserver.site:2086/999999999/999999999/94809
 #EXTINF:-1,Gemini TV HD
-http://85.203.33.33:80/FqAreoF4Ql/U3UZG4k0Mk/10248
+http://randomserver.site:2086/999999999/999999999/94749
 #EXTINF:-1,SURYA HD
-http://85.203.33.33:80/FqAreoF4Ql/U3UZG4k0Mk/20209
+http://randomserver.site:2086/999999999/999999999/94795
 #EXTINF:-1,SURYA TV airtel
 https://load.airtel.tv/suryatv/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
 #EXTINF:-1,UDAYA movies airtel
