@@ -6,13 +6,7 @@
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="hindi" tvg-country="IN" tvg-url="" group-title="MUSIC HINDI",MUSIC INDIA
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
-#EXTINF:-1,MTV
-http://iptv.mirrorace.net/?channelid=248 
-#EXTINF:-1,MTV HD Plus
-http://iptv.mirrorace.net/?channelid=1145 
-#EXTINF:-1,MTV Beats HD
-http://iptv.mirrorace.net/?channelid=753 
-#EXTINF:-1,MTV (IN)
+#EXTINF:-1,MTV IN
 http://f.ok2.se:8000/victor1/victor123/3840
 
 #EXTINF:-1 ,HUNGAMA DILSE VIP
@@ -82,7 +76,7 @@ https://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="hindi"  tvg-country="IN" tvg-url="" group-title="STAR HOTSTAR",star gold hdd 
-http://85.203.33.33:80/FqAreoF4Ql/U3UZG4k0Mk/10161
+http://195.181.169.129/star_gold_Select-Hin/tracks-v1a2/mono.m3u8
 #EXTINF:-1,Star gold FHDD
 http://195.181.169.129/star_gold_Select-Hin/tracks-v1a2/mono.m3u8
 #EXTINF:-1,Star bharat HD
@@ -90,7 +84,7 @@ http://85.203.33.33:80/FqAreoF4Ql/U3UZG4k0Mk/10179
 #EXTINF:-1,Star Plus HD
 http://195.181.169.129/StarPlusASIA-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Plus HDD
-http://85.203.33.33:80/FqAreoF4Ql/U3UZG4k0Mk/6248
+http://195.181.169.129/StarPlusASIA-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Gold Select HD
 http://85.203.33.33:80/FqAreoF4Ql/U3UZG4k0Mk/6228
 
