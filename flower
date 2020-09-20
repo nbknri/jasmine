@@ -1,45 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU" group-title="IPL 2020 SPECIAL COVERAGE",STAR SPORTS 1 HD
-http://85.203.33.33:80/zd8y3PI691/FKcsZM020/18807
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU",ADFREE IPL
-http://85.203.33.33:80/zd8y3PI691/FKcsZM020/21517
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU",STAR SPORTS english
-http://66.northerniptv.ca:8000/golden123/golden123/201
-#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD_1.png",Star Sports 1 HD
-http://randomserver.site:2086/crystal/12345/94781
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD_2.png",Star Sports 2 HD
-http://randomserver.site:2086/crystal/12345/94784
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_3.png",Star Sports Hindi
-http://randomserver.site:2086/crystal/12345/94788
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_1.png",Star Sports Select HD1
-http://randomserver.site:2086/crystal/12345/94789
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_2.png",Star Sports Select HD2
-http://randomserver.site:2086/crystal/12345/94790
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://picon-13398.kxcdn.com/skysportscricketuk.jpg",Sky Sports Cricket 1
-https://cdn.sha-256.org/2022631336/dkzmYLenTq/1609
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU",Sky Sports Cricket 2
-http://85.203.33.33:80/FqAreoF4Ql/U3UZG4k0Mk/5601
-#EXTINF:-1 tvg-id="" tvg-logo="https://picon-13398.kxcdn.com/skysportscricketuk.jpg",Sky Sports Cricket 3
-http://85.203.33.33:80/FqAreoF4Ql/U3UZG4k0Mk/14750
-#EXTINF:-1 tvg-id="" tvg-logo="https://picon-13398.kxcdn.com/skysportscricketuk.jpg",Sky Sports Cricket 4
-http://85.203.33.33:80/FqAreoF4Ql/U3UZG4k0Mk/14652
-#EXTINF:-1 tvg-id="" tvg-logo="https://picon-13398.kxcdn.com/skysportscricketuk.jpg",Sky Sports Cricket 5
-http://66.northerniptv.ca:8000/golden123/golden123/205
 
 
 
@@ -1334,7 +1293,8 @@ http://iptv.mirrorace.net/?channelid=1254
 http://f.ok2.se:8000/Fonzi/Fonzi/205
 #EXTINF:-1,beIN SPORTS cricket
 http://85.203.33.33:80/FqAreoF4Ql/U3UZG4k0Mk/21517
-
+#EXTINF:-1,SKY SPORTS CRICKET
+http://f.ok2.se:8000/victor1/victor123/205
 #EXTINF:-1,Sky Sports Cricket HD
 http://85.203.33.33:80/FqAreoF4Ql/U3UZG4k0Mk/5601
 #EXTINF:-1,Sky Sports Cricket
@@ -1538,18 +1498,7 @@ http://mainevents.icu:8000/49122012AM4984920/47122012AM4784720/63785
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="hindi"  tvg-country="IN" tvg-url="" group-title="kids",shemaroo kids
 http://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8
-#EXTINF:-1,Nick Hindi
-http://iptv.mirrorace.net/?channelid=545
-#EXTINF:-1,Pogo Hindi
-http://iptv.mirrorace.net/?channelid=559
-#EXTINF:-1,Sonic Hindi
-http://iptv.mirrorace.net/?channelid=815 
-#EXTINF:-1,Cartoon Network Hindi
-http://iptv.mirrorace.net/?channelid=816
-#EXTINF:-1,CN HD+ English
-http://iptv.mirrorace.net/?channelid=1079
-#EXTINF:-1,Nick HD+
-http://iptv.mirrorace.net/?channelid=1226
+
 
 #EXTINF:0,CBeebies
 http://51.52.156.22:8888/http/003
@@ -1565,6 +1514,20 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b26947
 https://edge-1192-ch-gv.filmon.com/live/318.high.stream/playlist.m3u8
 #EXTINF:-1,SONY YAyyyy
 https://bit.ly/2WmsoNYYaY
+#EXTINF:-1,NICKELODEON HD
+http://f.ok2.se:8000/victor1/victor123/394
+#EXTINF:-1,CARTOON NETWORK HD
+http://f.ok2.se:8000/victor1/victor123/395
+#EXTINF:-1,FAMILY HD
+http://f.ok2.se:8000/victor1/victor123/396
+#EXTINF:-1,DISNEY XD HD
+http://f.ok2.se:8000/victor1/victor123/397
+#EXTINF:-1,DISNEY
+http://f.ok2.se:8000/victor1/victor123/7804
+#EXTINF:-1,DUCK TALES non stop
+http://f.ok2.se:8000/victor1/victor123/7498
+#EXTINF:-1,SPIDERMAN non stop
+http://f.ok2.se:8000/victor1/victor123/9976
 #EXTINF:-1,Disney
 http://103.47.132.164/PLTV/88888888/224/3221227183/1.m3u8
 #EXTINF:83 tvg-logo="https://sv1.picz.in.th/images/2020/09/07/OffRGQ.png" group-title="KIDS", NICK JR
@@ -5018,151 +4981,43 @@ http://ok2.se:8000/victor1/victor123/1771
 
 
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-language="UK"  tvg-country="UK" tvg-url="" group-title="AUSTRALIA",beIN SPORTS 1 HD AU
-http://85.203.33.33:80/gKyJw1AH87/1YDJQ9iBPS/33648
-#EXTINF:-1,beIN SPORTS 2 HD AU
-http://85.203.33.33:80/gKyJw1AH87/1YDJQ9iBPS/33649
-#EXTINF:-1,beIN SPORTS 3 HD AU
-http://85.203.33.33:80/gKyJw1AH87/1YDJQ9iBPS/33650
-#EXTINF:-1,ESPN FHD AU
-http://85.203.33.33:80/gKyJw1AH87/1YDJQ9iBPS/33651
-#EXTINF:-1,ESPN 2 HD AU
-http://85.203.33.33:80/gKyJw1AH87/1YDJQ9iBPS/33652
-#EXTINF:-1,FOX Sports News FHD AU
-http://85.203.33.33:80/gKyJw1AH87/1YDJQ9iBPS/33653
-#EXTINF:-1,FOX Sports 501 HD AU
-http://85.203.33.33:80/gKyJw1AH87/1YDJQ9iBPS/33654
-#EXTINF:-1,FOX Sports 502 HD AU
-http://85.203.33.33:80/gKyJw1AH87/1YDJQ9iBPS/33655
-#EXTINF:-1,FOX Sports 503 HD AU
-http://85.203.33.33:80/gKyJw1AH87/1YDJQ9iBPS/33656
-#EXTINF:-1,FOX Sports 504 FHD AU
-http://85.203.33.33:80/gKyJw1AH87/1YDJQ9iBPS/33657
-#EXTINF:-1,FOX Sports 505 HD AU
-http://85.203.33.33:80/gKyJw1AH87/1YDJQ9iBPS/33658
-#EXTINF:-1,FOX Sports 506 HD AU
-http://85.203.33.33:80/gKyJw1AH87/1YDJQ9iBPS/33659
-#EXTINF:-1,FOX Sports 507 HD AU
-http://85.203.33.33:80/gKyJw1AH87/1YDJQ9iBPS/33660
-#EXTINF:-1,7 Perth AU
-http://85.203.33.33:80/gKyJw1AH87/1YDJQ9iBPS/33897
-#EXTINF:-1,7 mate Perth AU
-http://85.203.33.33:80/gKyJw1AH87/1YDJQ9iBPS/33898
-#EXTINF:-1,7 flix Perth AU
-http://85.203.33.33:80/gKyJw1AH87/1YDJQ9iBPS/33899
-#EXTINF:-1,7 Two Perth AU
-http://85.203.33.33:80/gKyJw1AH87/1YDJQ9iBPS/33900
-#EXTINF:-1,7 Sydney AU
-http://85.203.33.33:80/gKyJw1AH87/1YDJQ9iBPS/33901
-#EXTINF:-1,7 mate Sidney AU
-http://85.203.33.33:80/gKyJw1AH87/1YDJQ9iBPS/33902
-#EXTINF:-1,7 flix Sydney AU
-http://85.203.33.33:80/gKyJw1AH87/1YDJQ9iBPS/33903
-#EXTINF:-1,7 Two Sydney AU
-http://85.203.33.33:80/gKyJw1AH87/1YDJQ9iBPS/33904
-#EXTINF:-1,Channel Nine Sydney AU
-http://85.203.33.33:80/gKyJw1AH87/1YDJQ9iBPS/33906
-#EXTINF:-1,9 GEM Sydney AU
-http://85.203.33.33:80/gKyJw1AH87/1YDJQ9iBPS/33907
-#EXTINF:-1,9 Go! Sydney AU
-http://85.203.33.33:80/gKyJw1AH87/1YDJQ9iBPS/33908
-#EXTINF:-1,9 Life Sydney AU
-http://85.203.33.33:80/gKyJw1AH87/1YDJQ9iBPS/33909
-#EXTINF:-1,10 Bold Sydney AU
-http://85.203.33.33:80/gKyJw1AH87/1YDJQ9iBPS/33911
-#EXTINF:-1,SBS Sydney AU
-http://85.203.33.33:80/gKyJw1AH87/1YDJQ9iBPS/33915
-#EXTINF:-1,RedBull TV AU
-http://85.203.33.33:80/gKyJw1AH87/1YDJQ9iBPS/33916
-#EXTINF:-1,ABC KIDS AU
-http://85.203.33.33:80/gKyJw1AH87/1YDJQ9iBPS/33918
-#EXTINF:-1,ABC ME National AU
-http://85.203.33.33:80/gKyJw1AH87/1YDJQ9iBPS/33919
-#EXTINF:-1,SBS World Movies AU
-http://85.203.33.33:80/gKyJw1AH87/1YDJQ9iBPS/33920
-#EXTINF:-1,Racing.com AU
-http://85.203.33.33:80/gKyJw1AH87/1YDJQ9iBPS/33922
-#EXTINF:-1,SBS Viceland AU
-http://85.203.33.33:80/gKyJw1AH87/1YDJQ9iBPS/33924
-#EXTINF:-1,Channel Nine Perth AU
-http://85.203.33.33:80/gKyJw1AH87/1YDJQ9iBPS/33925
-#EXTINF:-1,9 Go! Perth AU
-http://85.203.33.33:80/gKyJw1AH87/1YDJQ9iBPS/33926
-#EXTINF:-1,9 Life Perth AU
-http://85.203.33.33:80/gKyJw1AH87/1YDJQ9iBPS/33927
-#EXTINF:-1,9 GEM Perth AU
-http://85.203.33.33:80/gKyJw1AH87/1YDJQ9iBPS/33928
-#EXTINF:-1,SBS Food AU
-http://85.203.33.33:80/gKyJw1AH87/1YDJQ9iBPS/33930
-#EXTINF:-1,10 Peach Perth AU
-http://85.203.33.33:80/gKyJw1AH87/1YDJQ9iBPS/33931
-#EXTINF:-1,ABC Queensland AU
-http://85.203.33.33:80/gKyJw1AH87/1YDJQ9iBPS/33933
-#EXTINF:-1,7 Queensland AU
-http://85.203.33.33:80/gKyJw1AH87/1YDJQ9iBPS/33934
-#EXTINF:-1,7 flix Brisbane AU
-http://85.203.33.33:80/gKyJw1AH87/1YDJQ9iBPS/33935
-#EXTINF:-1,7 mate Central AU
-http://85.203.33.33:80/gKyJw1AH87/1YDJQ9iBPS/33936
-#EXTINF:-1,7 Two Queensland AU
-http://85.203.33.33:80/gKyJw1AH87/1YDJQ9iBPS/33937
-#EXTINF:-1,Channel Nine Brisbane AU
-http://85.203.33.33:80/gKyJw1AH87/1YDJQ9iBPS/33938
-#EXTINF:-1,9 GEM Brisbane AU
-http://85.203.33.33:80/gKyJw1AH87/1YDJQ9iBPS/33939
-#EXTINF:-1,9 Go! Brisbane AU
-http://85.203.33.33:80/gKyJw1AH87/1YDJQ9iBPS/33940
-#EXTINF:-1,10 Brisbane AU
-http://85.203.33.33:80/gKyJw1AH87/1YDJQ9iBPS/33941
-#EXTINF:-1,10 Peach Brisbane AU
-http://85.203.33.33:80/gKyJw1AH87/1YDJQ9iBPS/33943
-#EXTINF:-1,10 Bold Brisbane AU
-http://85.203.33.33:80/gKyJw1AH87/1YDJQ9iBPS/33942
-#EXTINF:-1,10 Bold Perth AU
-http://85.203.33.33:80/gKyJw1AH87/1YDJQ9iBPS/33932
-#EXTINF:-1,10 Perth AU
-http://85.203.33.33:80/gKyJw1AH87/1YDJQ9iBPS/33929
-#EXTINF:-1,10 Peach Sydney AU
-http://85.203.33.33:80/gKyJw1AH87/1YDJQ9iBPS/33912
-#EXTINF:-1,10 Sydney AU
-http://85.203.33.33:80/gKyJw1AH87/1YDJQ9iBPS/33910
 
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://allsprk.tv/img/poster.png" group-title="",allsprk.tv (Series Movies Animes)
+#EXTINF:-1 tvg-logo="https://allsprk.tv/img/poster.png" group-title="",SPARKS TV(Series Movies Animes)
 https://stream.allsprk.tv/live/test/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://stream.allsprk.tv/0.png" group-title="",Channel-0
+#EXTINF:-1,sparks a
 https://stream.allsprk.tv/live/0/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xrVAJh5.png" group-title="",Channel-1
+#EXTINF:-1,sparks b
 https://stream.allsprk.tv/live/1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://stream.allsprk.tv/2.png" group-title="",Channel-2
+#EXTINF:-1, sparks c
 https://stream.allsprk.tv/live/2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://stream.allsprk.tv/3.png" group-title="",Channel-3
+#EXTINF:-1,sparks d
 https://stream.allsprk.tv/live/3/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://stream.allsprk.tv/4.png" group-title="",Channel-4
+#EXTINF:-1,sparks e
 https://stream.allsprk.tv/live/4/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://stream.allsprk.tv/5.png" group-title="",Channel-5
+#EXTINF:-1,sparks f
 https://stream.allsprk.tv/live/5/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://stream.allsprk.tv/6.png" group-title="",Channel-6
+#EXTINF:-1,sparks g
 https://stream.allsprk.tv/live/6/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://stream.allsprk.tv/7.png" group-title="",Channel-7
+#EXTINF:-1,sparks h
 https://stream.allsprk.tv/live/7/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://stream.allsprk.tv/8.png" group-title="",Channel-8
+#EXTINF:-1,sparks i
 https://stream.allsprk.tv/live/8/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://stream.allsprk.tv/9.png" group-title="",Channel-9
+#EXTINF:-1,sparks j
 https://stream.allsprk.tv/live/9/index.m3u8
 
 
@@ -5488,160 +5343,10 @@ http://flowfhd.xyz:25461/Michelle/2020/9962
 
 
 
-#EXTINF:-1 tvg-id="1408" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Reporter_TV.png" group-title=" malayalam News",Reporter TV
-http://iptv.mirrorace.net/?channelid=1408
-#EXTINF:-1 tvg-id="1455" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Janapriyam_News.png" group-title="malayalam Infotainment",Janapriyam
-http://iptv.mirrorace.net/?channelid=1455
-#EXTINF:-1 tvg-id="1340" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Malayalam.png" group-title="malayalam Kids",Nick Malayalam
-http://iptv.mirrorace.net/?channelid=1340
-#EXTINF:-1 tvg-id="1344" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Malayalam.png" group-title="malayalam Kids",Sonic Malayalam
-http://iptv.mirrorace.net/?channelid=1344 
-#EXTINF:-1 tvg-id="443" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet.png" group-title="malayalam Entertainment",Asianet HD
-http://iptv.mirrorace.net/?channelid=443
-#EXTINF:-1 tvg-id="181" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_Plus.png" group-title="malayalam Entertainment",Asianet Plus HD
-http://iptv.mirrorace.net/?channelid=181 
-#EXTINF:-1 tvg-id="459" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_Movies_HD.png" group-title="malayalam Movies",Asianet Movies HD
-http://iptv.mirrorace.net/?channelid=459 
-#EXTINF:-1 tvg-id="723" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Amrita_TV.png" group-title="malayalam Entertainment",Amrita TV
-http://iptv.mirrorace.net/?channelid=723
-#EXTINF:-1 tvg-id="844" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mazavali_Manorama_HD.png" group-title="malayalam Entertainment",Mazavali Manorama HD
-http://iptv.mirrorace.net/?channelid=844 
-#EXTINF:-1 tvg-id="710" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kairali_TV.png" group-title="malayalam Entertainment",Kairali TV
-http://iptv.mirrorace.net/?channelid=710 
-#EXTINF:-1 tvg-id="725" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kairali_People_TV.PNG" group-title="malayalam News",Kairali News
-http://iptv.mirrorace.net/?channelid=725
-#EXTINF:-1 tvg-id="662" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Manorama_News.png" group-title="malayalam News",Manorama News
-http://iptv.mirrorace.net/?channelid=662
-#EXTINF:-1 tvg-id="780" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mathrubhumi_News.png" group-title="malayalam News",Mathrubhumi News
-http://iptv.mirrorace.net/?channelid=780 
-#EXTINF:-1 tvg-id="465" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jaihind_tv.png" group-title="malayalam News",Jaihind tv
-http://iptv.mirrorace.net/?channelid=465
-#EXTINF:-1 tvg-id="842" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jeevan_TV.png" group-title="malayalam News",Jeevan TV
-http://iptv.mirrorace.net/?channelid=842
-#EXTINF:-1 tvg-id="786" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kappa_TV.png" group-title="malayalam Music",Kappa TV
-http://iptv.mirrorace.net/?channelid=786
-#EXTINF:-1 tvg-id="634" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Flower_TV.png" group-title="malayalam Entertainment",Flower TV
-http://iptv.mirrorace.net/?channelid=634 
-#EXTINF:-1 tvg-id="810" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Janam_TV.png" group-title="malayalam News",Janam TV
-http://iptv.mirrorace.net/?channelid=810 
-#EXTINF:-1 tvg-id="606" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Shalom.png" group-title="malayalam Devotional",Shalom
-http://iptv.mirrorace.net/?channelid=606 
-#EXTINF:-1 tvg-id="563" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kaumudy_TV.png" group-title="malayalam Lifestyle",Kaumudy TV
-http://iptv.mirrorace.net/?channelid=563
-#EXTINF:-1 tvg-id="731" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kairali_WE_TV.png" group-title="malayalam Entertainment",Kairali WE TV
-http://iptv.mirrorace.net/?channelid=731
-#EXTINF:-1 tvg-id="965" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Kerala.png" group-title="malayalam News",News 18 Kerala
-http://iptv.mirrorace.net/?channelid=965
-#EXTINF:-1 tvg-id="739" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Music_Malayalam.png" group-title="malayalam Music",Raj Music Malayalam
-http://iptv.mirrorace.net/?channelid=739 
-#EXTINF:-1 tvg-id="650" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_Malayalam.png" group-title="malayalam News",Raj News Malayalam
-http://iptv.mirrorace.net/?channelid=650
-#EXTINF:-1 tvg-id="1250" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TWENTY_FOUR_NEWS.png" group-title="malayalam News",Twenty Four News
-http://iptv.mirrorace.net/?channelid=1250
-#EXTINF:-1 tvg-id="699" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Malayalam.png" group-title="malayalam Entertainment",DD Malayalam
-http://iptv.mirrorace.net/?channelid=699
-#EXTINF:-1 tvg-id="910" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Media_One_TV.png" group-title="malayalam News",Media One TV
-http://iptv.mirrorace.net/?channelid=910
-#EXTINF:-1 tvg-id="953" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Propex_TV.png" group-title="malayalam Lifestyle",Propex TV
-http://iptv.mirrorace.net/?channelid=953 
-#EXTINF:-1 tvg-id="1429" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/KITE_Victers.png" group-title="malayalam Education",KITE VICTERS
-http://iptv.mirrorace.net/?channelid=1429
-#EXTINF:-1 tvg-id="1221" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rajyoga_Malayalam.png" group-title="malayalam Devotional",Rajyoga Malayalam
-http://iptv.mirrorace.net/?channelid=1221
-#EXTINF:-1 tvg-id="1284" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Vignesh_TV.PNG" group-title="malayalam Devotional",Vignesh TV
-http://iptv.mirrorace.net/?channelid=1284
-#EXTINF:-1 tvg-id="1514" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kannur_one.png" group-title="malayalam Entertainment",Kannur One
-http://iptv.mirrorace.net/?channelid=1514
 
 
-#EXTINF:-1 tvg-id="1515" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_J.png" group-title="tamil News",News J
-http://iptv.mirrorace.net/?channelid=1515
-#EXTINF:-1 tvg-id="1081" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_Tamil.png" group-title="tamil Kids",CN HD+ Tamil
-http://iptv.mirrorace.net/?channelid=1081
-#EXTINF:-1 tvg-id="817" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Tamil.png" group-title="tamil Kids",Cartoon Network Tamil
-http://iptv.mirrorace.net/?channelid=817 
-#EXTINF:-1 tvg-id="542" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Tamil.png" group-title="tamil Kids",Pogo Tamil
-http://iptv.mirrorace.net/?channelid=542 
-#EXTINF:-1 tvg-id="546" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Tamil.png" group-title="tamil Kids",Nick Tamil
-http://iptv.mirrorace.net/?channelid=546
-#EXTINF:-1 tvg-id="290" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Tamil.png" group-title="tamil Kids",sonic Tamil
-http://iptv.mirrorace.net/?channelid=290 
-#EXTINF:-1 tvg-id="873" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Tamil.png" group-title="tamil Kids",Sony Yay Tamil
-http://iptv.mirrorace.net/?channelid=873
-#EXTINF:-1 tvg-id="550" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_Tamil.png" group-title="tamil Kids",Discovery Kids Tamil
-http://iptv.mirrorace.net/?channelid=550 
-#EXTINF:-1 tvg-id="569" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Tamil.png" group-title="tamil Infotainment",D Tamil
-http://iptv.mirrorace.net/?channelid=569
-#EXTINF:-1 tvg-id="1219" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD_Tamil.png" group-title="tamil Infotainment",Animal Planet HD Tamil
-http://iptv.mirrorace.net/?channelid=1219 
-#EXTINF:-1 tvg-id="1438" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Velukkudi_Discourses.png" group-title="tamil Devotional",Velukkudi Discourses
-http://iptv.mirrorace.net/?channelid=1438
-#EXTINF:-1 tvg-id="419" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_TV_HD.png" group-title="tamil Entertainment",Jaya TV HD
-http://iptv.mirrorace.net/?channelid=419 
-#EXTINF:-1 tvg-id="824" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Puthu_Yugam.png" group-title="tamil Entertainment",Puthu Yugam
-http://iptv.mirrorace.net/?channelid=824 
-#EXTINF:-1 tvg-id="847" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MK_TV.png" group-title="tamil Entertainment",MK TV
-http://iptv.mirrorace.net/?channelid=847
-#EXTINF:-1 tvg-id="767" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_24x7.png" group-title="tamil News",Raj News 24x7
-http://iptv.mirrorace.net/?channelid=76
-#EXTINF:-1 tvg-id="845" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MK_Music.png" group-title="tamil Music",MK Music
-http://iptv.mirrorace.net/?channelid=845
-#EXTINF:-1 tvg-id="579" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Tamil.png" group-title="tamil Infotainment",History TV18 HD Tamil
-http://iptv.mirrorace.net/?channelid=579 
-#EXTINF:-1 tvg-id="853" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Tamil.png" group-title="tamil Infotainment",Sony BBC Earth HD Tamil
-http://iptv.mirrorace.net/?channelid=853
-#EXTINF:-1 tvg-id="628" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png" group-title="tamil Entertainment",Zee Tamil
-http://iptv.mirrorace.net/?channelid=628
-#EXTINF:-1 tvg-id="1209" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kalaignar_TV.png" group-title="tamil Entertainment",Kalaignar TV
-http://iptv.mirrorace.net/?channelid=1209 
-#EXTINF:-1 tvg-id="707" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_TV.png" group-title="tamil Entertainment",Raj TV
-http://iptv.mirrorace.net/?channelid=707
-#EXTINF:-1 tvg-id="677" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Puthiya_Thalimurai.png" group-title="tamil News",Puthiya Thalimurai
-http://iptv.mirrorace.net/?channelid=677
-#EXTINF:-1 tvg-id="727" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Vasanth_TV.png" group-title="tamil Entertainment",Vasanth TV
-http://iptv.mirrorace.net/?channelid=727
-#EXTINF:-1 tvg-id="420" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_Max.png" group-title="tamil Music",Jaya Max
-http://iptv.mirrorace.net/?channelid=420
-#EXTINF:-1 tvg-id="705" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_TV.png" group-title="tamil Entertainment",Polimer TV
-http://iptv.mirrorace.net/?channelid=705
-#EXTINF:-1 tvg-id="830" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Thanthi_TV.png" group-title="tamil News",Thanthi TV
-http://iptv.mirrorace.net/?channelid=830
-#EXTINF:-1 tvg-id="708" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Makkal_TV.png" group-title="tamil Entertainment",Makkal TV
-http://iptv.mirrorace.net/?channelid=708
-#EXTINF:-1 tvg-id="418" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_Plus.png" group-title="tamil News",Jaya Plus
-http://iptv.mirrorace.net/?channelid=418
-#EXTINF:-1 tvg-id="417" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/J_Movies.png" group-title="tamil Movies",J Movies
-http://iptv.mirrorace.net/?channelid=417
-#EXTINF:-1 tvg-id="417" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/J_Movies.png" group-title="tamil Movies",J Movies airtel
-https://load.airtel.tv/jmovies/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
-#EXTINF:-1 tvg-id="673" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News7_Tamil.png" group-title="tamil News",News7 Tamil
-http://iptv.mirrorace.net/?channelid=673
-#EXTINF:-1 tvg-id="636" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_News.png" group-title="tamil News",Polimer News
-http://iptv.mirrorace.net/?channelid=636
-#EXTINF:-1 tvg-id="615" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Tamilnadu.png" group-title="tamil News",News 18 Tamilnadu
-http://iptv.mirrorace.net/?channelid=615
-#EXTINF:-1 tvg-id="1210" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kalaignar_Seithigal_.png" group-title="tamil News",Kalaignar Seithigal 
-http://iptv.mirrorace.net/?channelid=1210
-#EXTINF:-1 tvg-id="683" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Digital_Plus.png" group-title="tamil Movies",Raj Digital Plus
-http://iptv.mirrorace.net/?channelid=683
-#EXTINF:-1 tvg-id="748" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Musix.png" group-title="tamil Music",Raj Musix
-http://iptv.mirrorace.net/?channelid=748 
-#EXTINF:-1 tvg-id="429" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png" group-title="tamil Entertainment",Colors Tamil HD
-http://iptv.mirrorace.net/?channelid=429
-#EXTINF:-1 tvg-id="671" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sathiyam.png" group-title="tamil News",Sathiyam TV
-http://iptv.mirrorace.net/?channelid=671 
-#EXTINF:-1 tvg-id="645" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Captain_News.png" group-title="tamil News",Captain News
-http://iptv.mirrorace.net/?channelid=645
-#EXTINF:-1 tvg-id="826" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Malai_Murasu.png" group-title="tamil News",Malai Murasu
-http://iptv.mirrorace.net/?channelid=826
-#EXTINF:-1 tvg-id="711" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Captain_tv.png" group-title="tamil Entertainment",Captain tv
-http://iptv.mirrorace.net/?channelid=711 
-#EXTINF:-1 tvg-id="749" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sahana_Music.png" group-title="tamil Music",Sahana Music
-http://iptv.mirrorace.net/?channelid=749 
-#EXTINF:-1 tvg-id="603" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nambikkai.png" group-title="tamil Devotional",Nambikkai
-http://iptv.mirrorace.net/?channelid=603
-#EXTINF:-1 tvg-id="814" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_Tamil.png" group-title="tamil Infotainment",Travel XP Tamil
-http://iptv.mirrorace.net/?channelid=814
+
+
 #EXTINF:-1, 7star tv
 http://media.7starcloud.com:1935/live/7star/chunklist_w1975158563.m3u8
 #EXTINF:-1,3tamil
@@ -5654,171 +5359,6 @@ http://media.7starcloud.com:1935/live/aadhavantv/playlist.m3u8
 http://ammacable.com:1935/acn/ammachannel/playlist.m3u8
 #EXTINF:-1,acn cinema
 http://ammacable.com:1935/acn/acncinema/playlist.m3u8 
-#EXTINF:-1 tvg-id="857" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Vendhar_TV.png" group-title="tamil Entertainment",Vendhar TV
-http://iptv.mirrorace.net/?channelid=857 
-#EXTINF:-1 tvg-id="726" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD5_Podhigai.png" group-title="tamil Entertainment",DD5 Podhigai
-http://iptv.mirrorace.net/?channelid=726
-#EXTINF:-1 tvg-id="1255" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Tamil.png" group-title="tamil Devotional",Aastha Tamil
-http://iptv.mirrorace.net/?channelid=1255
-#EXTINF:-1 tvg-id="937" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SaiTV.png" group-title="tamil Devotional",Sai TV
-http://iptv.mirrorace.net/?channelid=937 
-#EXTINF:-1 tvg-id="835" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Angel_TV_HD.png" group-title="tamil Devotional",Angel TV HD
-http://iptv.mirrorace.net/?channelid=835 
-#EXTINF:-1 tvg-id="796" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Peppers_TV.png" group-title="tamil Entertainment",Peppers TV
-http://iptv.mirrorace.net/?channelid=796 
-#EXTINF:-1 tvg-id="803" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Tunes_6.png" group-title="tamil Music",Tunes 6
-http://iptv.mirrorace.net/?channelid=803 
-#EXTINF:-1 tvg-id="913" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Lotus_News.png" group-title="tamil News",Lotus News
-http://iptv.mirrorace.net/?channelid=913
-#EXTINF:-1 tvg-id="843" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Madhimugam_TV.png" group-title="tamil News",Madhimugam TV
-http://iptv.mirrorace.net/?channelid=843
-#EXTINF:-1 tvg-id="970" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Win_TV.png" group-title="tamil News",Win TV
-http://iptv.mirrorace.net/?channelid=970 
-#EXTINF:-1 tvg-id="1417" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SVBC2.png" group-title="tamil Devotional",SVBC2
-http://iptv.mirrorace.net/?channelid=1417
+
 #EXTINF:-1 tvg-id="333" tvg-logo=" " group-title="tamil Movies",CLASSIC TAMIL
 https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytamcla.stream_all/playlist.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Telugu.png" group-title="telugu Kids",Sonic Telugu
-http://iptv.mirrorace.net/?channelid=1242 
-#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_Telugu.png" group-title="telugu Kids",CN HD+ Telugu
-http://iptv.mirrorace.net/?channelid=1080 
-#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Telugu.png" group-title="telugu Kids",Cartoon Network Telugu
-http://iptv.mirrorace.net/?channelid=166 
-#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Telugu.png" group-title="telugu Kids",Nick Telugu
-http://iptv.mirrorace.net/?channelid=543
-#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sakshi_tv.png" group-title="telugu News",Sakshi tv
-http://iptv.mirrorace.net/?channelid=632 
-#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Telugu.png" group-title="telugu Entertainment",Zee Telugu
-http://iptv.mirrorace.net/?channelid=638 
-#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Studio_One.png" group-title="telugu News",Studio One
-http://iptv.mirrorace.net/?channelid=1274 
-#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Telugu.png" group-title="telugu Entertainment",ETV Telugu
-http://iptv.mirrorace.net/?channelid=629 
-#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Andhra_pradesh.png" group-title="telugu News",ETV Andhra pradesh
-http://iptv.mirrorace.net/?channelid=614 
-#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_TV.png" group-title="telugu Entertainment",Maa TV HD
-http://iptv.mirrorace.net/?channelid=758 
-#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV_5_News.png" group-title="telugu News",TV 5 News
-http://iptv.mirrorace.net/?channelid=668 
-#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Telugu_News.png" group-title="telugu News",TV9 Telugu News
-http://iptv.mirrorace.net/?channelid=618 
-#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NTV.png" group-title="telugu News",NTV
-http://iptv.mirrorace.net/?channelid=646
-#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Movies.png" group-title="telugu Movies",Maa Movies HD
-http://iptv.mirrorace.net/?channelid=760
-#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Gold.png" group-title="telugu Entertainment",Maa Gold HD
-http://iptv.mirrorace.net/?channelid=759 
-#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABN_Andhra_Jyothi.png" group-title="telugu News",ABN Andhra Jyothi
-http://iptv.mirrorace.net/?channelid=666 
-#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/T_News.png" group-title="telugu News",T News
-http://iptv.mirrorace.net/?channelid=667 
-#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/V6_News.png" group-title="telugu News",V6 News
-http://iptv.mirrorace.net/?channelid=769 
-#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Subhavartha_TV.png" group-title="telugu Devotional",Subhavartha TV
-http://iptv.mirrorace.net/?channelid=607
-#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nireekshana_TV.png" group-title="telugu Devotional",Nireekshana TV
-http://iptv.mirrorace.net/?channelid=1277
-#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Telangana.png" group-title="telugu News",ETV Telangana
-http://iptv.mirrorace.net/?channelid=630 
-#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/HM_TV.png" group-title="telugu News",HM TV
-http://iptv.mirrorace.net/?channelid=665 
-#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Cinema.png" group-title="telugu Movies",ETV Cinema
-http://iptv.mirrorace.net/?channelid=252 
-#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Plus.png" group-title="telugu Entertainment",ETV Plus
-http://iptv.mirrorace.net/?channelid=692 
-#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Life.png" group-title="telugu Infotainment",ETV Life
-http://iptv.mirrorace.net/?channelid=570 
-#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Abhiruchi.png" group-title="telugu Lifestyle",ETV Abhiruchi
-http://iptv.mirrorace.net/?channelid=565 
-#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinemalu.png" group-title="telugu Movies",Zee Cinemalu
-http://iptv.mirrorace.net/?channelid=413
-#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CVR_News.png" group-title="telugu News",CVR News
-http://iptv.mirrorace.net/?channelid=784 
-#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CVR_Health.png" group-title="telugu Infotainment",CVR Health
-http://iptv.mirrorace.net/?channelid=774
-#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CVR_OM_Spiritual.png" group-title="telugu Devotional",CVR OM Spiritual
-http://iptv.mirrorace.net/?channelid=772 
-#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_Telugu.png" group-title="telugu News",Raj News Telugu
-http://iptv.mirrorace.net/?channelid=664 
-#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Vissa_TV.png" group-title="telugu Entertainment",Vissa TV
-http://iptv.mirrorace.net/?channelid=734 
-#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/10_TV.png" group-title="telugu News",10 TV
-http://iptv.mirrorace.net/?channelid=832 
-#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aradhana_TV.png" group-title="telugu Devotional",Aradhana TV
-http://iptv.mirrorace.net/?channelid=777 
-#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Vanitha.png" group-title="telugu Infotainment",Vanitha
-http://iptv.mirrorace.net/?channelid=775
-#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Music_Telugu.png" group-title="telugu Music",Raj Music Telugu
-http://iptv.mirrorace.net/?channelid=737
-#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Telugu.png" group-title="telugu Infotainment",History TV18 HD Telugu
-http://iptv.mirrorace.net/?channelid=577 
-#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV1.png" group-title="telugu News",TV1
-http://iptv.mirrorace.net/?channelid=581 
-#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/I_News.png" group-title="telugu News",I News
-http://iptv.mirrorace.net/?channelid=790 
-#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maha_News.png" group-title="telugu News",Maha News
-http://iptv.mirrorace.net/?channelid=800 
-#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Telugu.png" group-title="telugu Infotainment",Sony BBC Earth HD Telugu
-http://iptv.mirrorace.net/?channelid=854 
-#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Telugu.png" group-title="telugu Infotainment",Discovery Channel Telugu
-http://iptv.mirrorace.net/?channelid=576 
-#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Divya_Vani.png" group-title="telugu Devotional",Divya Vani
-http://iptv.mirrorace.net/?channelid=934 
-#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Telugu.png" group-title="telugu Devotional",Aastha Telugu
-http://iptv.mirrorace.net/?channelid=1254
-#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Hindu_Dharmam.png" group-title="telugu Devotional",Hindu Dharmam
-http://iptv.mirrorace.net/?channelid=955 
-#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Calvary.png" group-title="telugu Devotional",Calvary
-http://iptv.mirrorace.net/?channelid=977
-#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_TV.png" group-title="telugu Entertainment",Maa TV HD
-http://iptv.mirrorace.net/?channelid=758 
-#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Vidya.png" group-title="telugu Education",Vidya
-http://iptv.mirrorace.net/?channelid=1461 
-#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nipuna.png" group-title="telugu Education",Nipuna
-http://iptv.mirrorace.net/?channelid=1462
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Shiksha_TV.png" group-title="gujarati Devotional",Shiksha TV
-http://iptv.mirrorace.net/?channelid=1454 
-#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Gujarati.png" group-title="gujarati Kids",Nick Gujarati
-http://iptv.mirrorace.net/?channelid=1343
-#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Gujarati.png" group-title="gujarati Kids",Sonic Gujarati
-http://iptv.mirrorace.net/?channelid=1347 
-#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Gujarati.png" group-title="gujarati Entertainment",Colors Gujarati
-http://iptv.mirrorace.net/?channelid=196 
-#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Tv_9_Gujarat.png" group-title="gujarati News",Tv 9 Gujarat
-http://iptv.mirrorace.net/?channelid=616 
-#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/GS_TV.png" group-title="gujarati News",GS TV
-http://iptv.mirrorace.net/?channelid=643 
-#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sandesh_News.png" group-title="gujarati News",Sandesh News
-http://iptv.mirrorace.net/?channelid=782
-#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Bazaar_MNO.png" group-title="gujarati Business",CNBC Bazaar (MNO)
-http://iptv.mirrorace.net/?channelid=490 
-#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_News_Gujarati.png" group-title="gujarati News",News18 Gujarati
-http://iptv.mirrorace.net/?channelid=620
-#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Asmita.png" group-title="gujarati News",ABP Asmita
-http://iptv.mirrorace.net/?channelid=641
-#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/VTV_Gujarati.png" group-title="gujarati News",VTV Gujarati
-http://iptv.mirrorace.net/?channelid=642 
-#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_24_Kalak.png" group-title="gujarati News",Zee 24 Kalak
-http://iptv.mirrorace.net/?channelid=929 
-#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Lakshya_TV.png" group-title="gujarati Devotional",Lakshya TV
-http://iptv.mirrorace.net/?channelid=886 
-#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Valambhakti.png" group-title="gujarati Devotional",Valam TV
-http://iptv.mirrorace.net/?channelid=1187 
-#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kartavya_Tv.png" group-title="gujarati Devotional",Kartavya TV
-http://iptv.mirrorace.net/?channelid=1186
-#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Hamari_Sanskruti_TV.png" group-title="gujarati Devotional",Hamari Sanskruti
-http://iptv.mirrorace.net/?channelid=1099 
-
-
-
-
-
