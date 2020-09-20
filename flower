@@ -359,19 +359,13 @@ http://195.181.169.129/StarPlusASIA-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:-1,STAR PLUS HDd
 http://185.8.176.227:25461/strtester/ap8s9ndf709a8/29
 #EXTINF:-1,Colors HD
-http://iptv.mirrorace.net/?channelid=144
-#EXTINF:-1,Sony HD
-http://iptv.mirrorace.net/?channelid=291 
-#EXTINF:-1,Zee TV HD
-http://iptv.mirrorace.net/?channelid=167
+http://randomserver.site:2086/999999999/999999999/91887
 #EXTINF:-1,ZEE TV UK
 http://z5amshls.akamaized.net/apacsea/tracks-v1a1/playlist.m3u8
 EXTINF:-1, ZEWORLD
 http://z5amshls.akamaized.net/world/tracks-v1a1/index.m3u8
 #EXTINF:-1,And TV HD
-http://iptv.mirrorace.net/?channelid=472
-#EXTINF:-1,Sony SAB HD
-http://iptv.mirrorace.net/?channelid=471
+http://randomserver.site:2086/999999999/999999999/94738
 #EXTINF:-1,ZEE TV (UK) (IN)
 http://f.ok2.se:8000/victor1/victor123/2176
 #EXTINF:-1,ZEE TV HD (IN)
@@ -389,10 +383,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca670f6593a5d78f0e
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca670f6593a5d78f0e85aed/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=174&deviceId=5ca670f6593a5d78f0e85aed&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:0,CBC
 https://cbclivedai5-i.akamaihd.net/hls/live/567235/event2/CBOT/master5.m3u8|X-Forwarded-For=24.37.42.20
-#EXTINF:-1,Comedy Central HD
-http://iptv.mirrorace.net/?channelid=1157
-#EXTINF:-1,Colors Infinity HD
-http://iptv.mirrorace.net/?channelid=1158 
+
 
 
 
@@ -909,7 +900,7 @@ https://bit.ly/3j8sIx7sd
 #EXTINF:-1,SONY SIX HD
 https://bit.ly/3h6sIXHd
 #EXTINF:-1,Sony BBC Earth
-http://85.203.33.33:80/FqAreoF4Ql/U3UZG4k0Mk/6226
+http://randomserver.site:2086/999999999/999999999/94740
 
 
 
@@ -1427,26 +1418,15 @@ http://streamitv.multitvsolution.in/idvo/discoversciencehindi.m3u8
 http://streamitv.multitvsolution.in/idvo/tlchdhindi.m3u8
 #EXTINF:-1 ,ANIMAL PLANET sd
 https://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8
-#EXTINF:-1,Animal Planet HD World
-http://iptv.mirrorace.net/?channelid=286 
+
 #EXTINF:-1,National Geographic HD UK
 http://85.203.33.33:80/FqAreoF4Ql/U3UZG4k0Mk/3561
 #EXTINF:-1,National Geographic Wild HD UK
 http://85.203.33.33:80/FqAreoF4Ql/U3UZG4k0Mk/1968
-#EXTINF:-1,Travel XP HD
-http://iptv.mirrorace.net/?channelid=164
-#EXTINF:-1,Travel XP HD Hindi
-http://iptv.mirrorace.net/?channelid=562
+
 #EXTINF:-1,Sony BBC Earth
-http://85.203.33.33:80/FqAreoF4Ql/U3UZG4k0Mk/6226
-#EXTINF:-1,Animal Planet Hindi
-http://iptv.mirrorace.net/?channelid=566 
-#EXTINF:-1,Discovery Channel Hindi
-http://iptv.mirrorace.net/?channelid=575 
-#EXTINF:-1,History TV18 HD Hindi
-http://iptv.mirrorace.net/?channelid=578 
-#EXTINF:-1,Discovery Science
-http://iptv.mirrorace.net/?channelid=568 
+http://randomserver.site:2086/999999999/999999999/94740
+
 #EXTINF:-1,Discovery asia
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1,Discovery HD [ENGLISH]
