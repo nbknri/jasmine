@@ -5,7 +5,6 @@
 
 
 
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="hindi" tvg-country="IN" tvg-url="" group-title="MUSIC HINDI",MUSIC INDIA
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
 #EXTINF:-1,MTV IN
@@ -79,6 +78,8 @@ https://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="hindi"  tvg-country="IN" tvg-url="" group-title="STAR HOTSTAR",star gold
 http://randomserver.site:2086/999999999/999999999/94663
+#EXTINF:-1,STAR GOLD 4K
+http://185.8.176.227:25461/strtester/ap8s9ndf709a8/56
 #EXTINF:-1,Star gold 
 http://randomserver.site:2086/999999999/999999999/94775
 #EXTINF:-1,Star gold select
@@ -199,27 +200,22 @@ https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunk
 http://livechannel.shemaroome.com/linearplayout/punjabi-linear-channel/chunklist_1280x720_cf.m3u8
 #EXTINF:-1,non stop movies
 http://akaram.zecast.net/akaram-live/akaramnew2/playlist.m3u8
+#EXTINF:-1,STAR GOLD 4K
+http://185.8.176.227:25461/strtester/ap8s9ndf709a8/56
 #EXTINF:-1,Star gold FHD
 http://195.181.169.129/star_gold_Select-Hin/tracks-v1a2/mono.m3u8
-
-#EXTINF:-1,IN : STAR GOLD HD
-http://randomserver.site:2086/crystal/12345/94775
-#EXTINF:-1,IN : STAR GOLD SELECT
-http://randomserver.site:2086/crystal/12345/94776
-#EXTINF:-1,UTV HD
-http://85.203.33.33:80/FqAreoF4Ql/U3UZG4k0Mk/6236
+#EXTINF:-1,Star gold
+http://randomserver.site:2086/999999999/999999999/94775
+#EXTINF:-1,CINEPLEX
+http://randomserver.site:2086/999999999/999999999/94741
 #EXTINF:-22, THE Q INDIA
 https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720pl/chunklist.m3u8
-#EXTINF:-1,Zee Bollywood
-http://iptv.mirrorace.net/?channelid=487
-#EXTINF:-1,Zee Action
-http://iptv.mirrorace.net/?channelid=488 
+
 #EXTINF: -1,Zee Action
 http://z5amshls.akamaized.net/action/tracks-v2a1/playlist.m3u8
 #EXTINF: -1,Zee BOLLYWOOD
 https://z5amshls.akamaized.net/classic/tracks-v3a1/index.m3u8
-#EXTINF:-1,Zee Cinema HD
-http://iptv.mirrorace.net/?channelid=165
+
 #EXTINF:-17,  ZEE CINEMA USA z5
 http://z5amshls.akamaized.net/cinemausa/tracks-v1a1/playlist.m3u8
 #EXTINF:-1,ZEE CINEMA (IN)
@@ -228,18 +224,13 @@ http://f.ok2.se:8000/victor1/victor123/1197
 http://f.ok2.se:8000/victor1/victor123/6895
 #EXTINF:-1,ZEE CINEMA (UK) (IN)
 http://f.ok2.se:8000/victor1/victor123/6933
-#EXTINF:-1,Colors Cineplex HD
-http://iptv.mirrorace.net/?channelid=1477
-#EXTINF:-1,Colors Cineplex FHD
-http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/73
-#EXTINF:-1,And Pictures HD
-http://iptv.mirrorace.net/?channelid=185
+
+
 #EXTINF:-1,and picture
 http://z5amshls.akamaized.net/andpicshd/tracks-v3a1/playlist.m3u8
 #EXTINF:-1,Bollywood
 http://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in_480p/index.m3u8
-#EXTINF:-1,sony max HD
-http://iptv.mirrorace.net/?channelid=476 
+
 #EXTINF:-1 ,SONY MAX HD
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7023.MAXHD.in_720p/index_dvr.m3u8
 #EXTINF:-1 ,SONY MAX
@@ -273,13 +264,9 @@ https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:0,&Flix
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:0,STAR MOVIES SELECT FHD
-http://randomserver.site:2086/crystal/12345/94828
-#EXTINF:-1,Sony Pix HD
-http://iptv.mirrorace.net/?channelid=762 
-#EXTINF:-1,HBO HD
-http://iptv.mirrorace.net/?channelid=833
-#EXTINF:-1,WB
-http://iptv.mirrorace.net/?channelid=834
+http://randomserver.site:2086/999999999/999999999/94828
+#EXTINF:-1,HBO HD 
+http://randomserver.site:2086/999999999/999999999/91862
 #EXTINF:0,Warner Channel HD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/319
 #EXTINF:-1,WARNER BROS
@@ -356,8 +343,8 @@ https://m-c066-j2apps.s.llnwi.net/hls_hd/7021.SETHD.in_720p/index.m3u8
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7021.SETHD.in_720p/index_dvr.m3u8
 #EXTINF:-1 ,sony sab HD vip
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7022.SABHD.in.m3u8
-#EXTINF:-1,Star Plus HD
-http://195.181.169.129/StarPlusASIA-Hin/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Star Plus HD 
+http://randomserver.site:2086/999999999/999999999/91828
 #EXTINF:-1,STAR PLUS HDd
 http://185.8.176.227:25461/strtester/ap8s9ndf709a8/29
 #EXTINF:-1,Colors HD
@@ -1308,7 +1295,14 @@ http://mainevents.icu:8000/49122012AM4984920/47122012AM4784720/63785
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="hindi"  tvg-country="IN" tvg-url="" group-title="kids",shemaroo kids
 http://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8
-
+#EXTINF:-1,NICK JR
+http://randomserver.site:2086/999999999/999999999/94184
+#EXTINF:-1,NICKELODEON
+http://randomserver.site:2086/999999999/999999999/94185
+#EXTINF:-1,DISNEY HD 
+http://randomserver.site:2086/999999999/999999999/91869
+#EXTINF:-1,CARTOON NETWORK
+http://randomserver.site:2086/999999999/999999999/91891
 
 #EXTINF:0,CBeebies
 http://51.52.156.22:8888/http/003
@@ -1368,6 +1362,10 @@ http://streamitv.multitvsolution.in/idvo/discoversciencehindi.m3u8
 http://streamitv.multitvsolution.in/idvo/tlchdhindi.m3u8
 #EXTINF:-1 ,ANIMAL PLANET sd
 https://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8
+#EXTINF:-1,NAT GEO WILD
+http://randomserver.site:2086/999999999/999999999/91852
+#EXTINF:-1,NATIONAL GEOGRAPHIC 
+http://randomserver.site:2086/999999999/999999999/91851
 
 #EXTINF:-1,National Geographic HD UK
 http://85.203.33.33:80/FqAreoF4Ql/U3UZG4k0Mk/3561
