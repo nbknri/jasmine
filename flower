@@ -102,9 +102,9 @@ http://randomserver.site:2086/riyad/riyad/94678
 
 
 #EXTINF:-1,STAR MOVIES SELECT HD
-http://randomserver.site:2086/999999999/999999999/94828
+http://randomserver.site:2086/riyad/riyad/94828
 #EXTINF:-1,STAR WORLD PREMIERE HD
-http://randomserver.site:2086/999999999/999999999/94826
+http://randomserver.site:2086/riyad/riyad/94826
 
 
 
@@ -153,21 +153,21 @@ http://randomserver.site:2086/riyad/riyad/94779
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="hindi"  tvg-country="IN" tvg-url="" group-title="NXT SUNNXT",SUN TV HD
-http://randomserver.site:2086/999999999/999999999/94794
+http://randomserver.site:2086/riyad/riyad/94794
 #EXTINF:-1,KTV HD
-http://randomserver.site:2086/999999999/999999999/91856
+http://randomserver.site:2086/riyad/riyad/91856
 #EXTINF:-1,SUN MUSIC HD
-http://randomserver.site:2086/999999999/999999999/94828
+http://randomserver.site:2086/riyad/riyad/94828
 #EXTINF:-1,SUN LIFE airtel
 https://load.airtel.tv/sunlife/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
 #EXTINF:-1,GEMINI MOVIES HD
-http://randomserver.site:2086/999999999/999999999/94808
+http://randomserver.site:2086/riyad/riyad/94808
 #EXTINF:-1,Gemini Comedy HD
-http://randomserver.site:2086/999999999/999999999/94809
+http://randomserver.site:2086/riyad/riyad/94809
 #EXTINF:-1,Gemini TV HD
-http://randomserver.site:2086/999999999/999999999/94749
+http://randomserver.site:2086/riyad/riyad/94749
 #EXTINF:-1,SURYA HD
-http://randomserver.site:2086/999999999/999999999/94795
+http://randomserver.site:2086/riyad/riyad/94795
 #EXTINF:-1,SURYA TV airtel
 https://load.airtel.tv/suryatv/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
 #EXTINF:-1,UDAYA movies airtel
