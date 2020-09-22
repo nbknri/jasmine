@@ -1,49 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU" group-title="IPL 2020 SPECIAL COVERAGE",IPL SKY
-https://cdn.sha-256.org/2022631336/dkzmYLenTq/1609
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU",IPL SKY ONE
-http://66.northerniptv.ca:8000/golden123/golden123/205
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU",ADFREE IPL SUPER
-http://66.northerniptv.ca:8000/golden123/golden123/81947
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU",ADFREE IPL SUPER1
-http://randomserver.site:2086/999999999/999999999/90482
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU",ADFREE IPL SUPER
-http://f.ok2.se:8000/victor1/victor123/81947
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU",ADFREE IPL BEIN
-http://66.northerniptv.ca:8000/golden123/golden123/74478
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU",ADFREE IPL BEIN1
-http://85.203.33.33:80/zd8y3PI691/FKcsZM020/21517
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU",ADFREE IPL BEIN2
-http://randomserver.site:2086/999999999/999999999/66784
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU",STAR SPORTS HINDI PURE
-http://randomserver.site:2086/999999999/999999999/94792
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU",STAR SPORTS HINDI
-http://randomserver.site:2086/999999999/999999999/94788
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU",STAR SPORTS PURE
-http://66.northerniptv.ca:8000/golden123/golden123/202
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU",STAR SPORTS ENGLISH
-http://66.northerniptv.ca:8000/golden123/golden123/201
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU",STAR SPORTS
-http://f.ok2.se:8000/victor1/victor123/201
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU",STAR SPORTS 1
-http://randomserver.site:2086/999999999/999999999/94781
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU",STAR SPORTS 1 HD
-http://randomserver.site:2086/999999999/999999999/94789
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUuP_IaMEgm3UJAd5PABhv2Xvz1_kJPOOmgw&usqp=CAU",STAR SPORTS1
-http://randomserver.site:2086/999999999/999999999/94790
 
 
 
@@ -124,9 +82,9 @@ http://randomserver.site:2086/999999999/999999999/94663
 #EXTINF:-1,STAR GOLD 4K
 http://185.8.176.227:25461/strtester/ap8s9ndf709a8/56
 #EXTINF:-1,Star gold 
-http://randomserver.site:2086/999999999/999999999/94775
+http://randomserver.site:2086/riyad/riyad/94775
 #EXTINF:-1,Star gold select
-http://randomserver.site:2086/999999999/999999999/94776
+http://randomserver.site:2086/riyad/riyad/94776
 #EXTINF:-1,Star gold select hd
 http://195.181.169.129/star_gold_Select-Hin/tracks-v1a2/mono.m3u8
 #EXTINF:-1,Star bharat HD
@@ -247,10 +205,10 @@ http://akaram.zecast.net/akaram-live/akaramnew2/playlist.m3u8
 http://185.8.176.227:25461/strtester/ap8s9ndf709a8/56
 #EXTINF:-1,Star gold FHD
 http://195.181.169.129/star_gold_Select-Hin/tracks-v1a2/mono.m3u8
-#EXTINF:-1,Star gold
-http://randomserver.site:2086/999999999/999999999/94775
-#EXTINF:-1,CINEPLEX
-http://randomserver.site:2086/999999999/999999999/94741
+#EXTINF:-1,Star gold 
+http://randomserver.site:2086/riyad/riyad/94775
+#EXTINF:-1,Star gold select
+http://randomserver.site:2086/riyad/riyad/94776
 #EXTINF:-22, THE Q INDIA
 https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720pl/chunklist.m3u8
 
