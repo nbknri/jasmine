@@ -265,9 +265,9 @@ https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:0,&Flix
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:0,STAR MOVIES SELECT FHD
-http://randomserver.site:2086/999999999/999999999/94828
+http://randomserver.site:2086/riyad/riyad/94828
 #EXTINF:-1,HBO HD 
-http://randomserver.site:2086/999999999/999999999/91862
+http://randomserver.site:2086/riyad/riyad/91862
 #EXTINF:0,Warner Channel HD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/319
 #EXTINF:-1,WARNER BROS
@@ -345,17 +345,17 @@ https://m-c066-j2apps.s.llnwi.net/hls_hd/7021.SETHD.in_720p/index_dvr.m3u8
 #EXTINF:-1 ,sony sab HD vip
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7022.SABHD.in.m3u8
 #EXTINF:-1,Star Plus HD 
-http://randomserver.site:2086/999999999/999999999/91828
+http://randomserver.site:2086/riyad/riyad/91828
 #EXTINF:-1,STAR PLUS HDd
 http://185.8.176.227:25461/strtester/ap8s9ndf709a8/29
 #EXTINF:-1,Colors HD
-http://randomserver.site:2086/999999999/999999999/91887
+http://randomserver.site:2086/riyad/riyad/91887
 #EXTINF:-1,ZEE TV UK
 http://z5amshls.akamaized.net/apacsea/tracks-v1a1/playlist.m3u8
 EXTINF:-1, ZEWORLD
 http://z5amshls.akamaized.net/world/tracks-v1a1/index.m3u8
 #EXTINF:-1,And TV HD
-http://randomserver.site:2086/999999999/999999999/94738
+http://randomserver.site:2086/riyad/riyad/94738
 #EXTINF:-1,ZEE TV (UK) (IN)
 http://f.ok2.se:8000/victor1/victor123/2176
 #EXTINF:-1,ZEE TV HD (IN)
@@ -890,7 +890,7 @@ https://bit.ly/3j8sIx7sd
 #EXTINF:-1,SONY SIX HD
 https://bit.ly/3h6sIXHd
 #EXTINF:-1,Sony BBC Earth
-http://randomserver.site:2086/999999999/999999999/94740
+http://randomserver.site:2086/riyad/riyad/94740
 
 
 
@@ -1297,13 +1297,13 @@ http://mainevents.icu:8000/49122012AM4984920/47122012AM4784720/63785
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="hindi"  tvg-country="IN" tvg-url="" group-title="kids",shemaroo kids
 http://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8
 #EXTINF:-1,NICK JR
-http://randomserver.site:2086/999999999/999999999/94184
+http://randomserver.site:2086/riyad/riyad/94184
 #EXTINF:-1,NICKELODEON
-http://randomserver.site:2086/999999999/999999999/94185
+http://randomserver.site:2086/riyad/riyad/94185
 #EXTINF:-1,DISNEY HD 
-http://randomserver.site:2086/999999999/999999999/91869
+http://randomserver.site:2086/riyad/riyad/91869
 #EXTINF:-1,CARTOON NETWORK
-http://randomserver.site:2086/999999999/999999999/91891
+http://randomserver.site:2086/riyad/riyad/91891
 
 #EXTINF:0,CBeebies
 http://51.52.156.22:8888/http/003
@@ -1364,9 +1364,9 @@ http://streamitv.multitvsolution.in/idvo/tlchdhindi.m3u8
 #EXTINF:-1 ,ANIMAL PLANET sd
 https://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8
 #EXTINF:-1,NAT GEO WILD
-http://randomserver.site:2086/999999999/999999999/91852
+http://randomserver.site:2086/riyad/riyad/91852
 #EXTINF:-1,NATIONAL GEOGRAPHIC 
-http://randomserver.site:2086/999999999/999999999/91851
+http://randomserver.site:2086/riyad/riyad/91851
 
 #EXTINF:-1,National Geographic HD UK
 http://85.203.33.33:80/FqAreoF4Ql/U3UZG4k0Mk/3561
@@ -1374,7 +1374,7 @@ http://85.203.33.33:80/FqAreoF4Ql/U3UZG4k0Mk/3561
 http://85.203.33.33:80/FqAreoF4Ql/U3UZG4k0Mk/1968
 
 #EXTINF:-1,Sony BBC Earth
-http://randomserver.site:2086/999999999/999999999/94740
+http://randomserver.site:2086/riyad/riyad/94740
 
 #EXTINF:-1,Discovery asia
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
